@@ -1,0 +1,65 @@
+title = "LNA-DEV Gallery"
+languageCode = "en-us"
+copyright = "© Lukas Nagel"
+disableKinds = ["taxonomy", "term"]
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+timeZone = "Europe/Berlin"
+theme = "github.com/nicokaiser/hugo-theme-gallery"
+
+[params]
+  title = "My Gallery"
+  description = "Example site for hugo-theme-gallery"
+  defaultTheme = "dark"
+
+[author]
+  name = "Lukas Nagel"
+
+[outputs]
+  page = ["HTML"]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+
+[imaging]
+  resampleFilter = "CatmullRom"
+  quality = 100
+  [imaging.exif]
+    disableDate = false
+    disableLatLong = true
+    includeFields = "ImageDescription"
+
+[module]
+  [module.hugoVersion]
+    extended = false
+    min = "0.112.0"
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+  [[module.mounts]]
+    source = "hugo_stats.json"
+    target = "assets/watching/hugo_stats.json"
+
+[build]
+  writeStats = true
+  [[build.cachebusters]]
+    source = "assets/watching/hugo_stats\\.json"
+    target = "styles\\.css"
+  [[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(js)"
+    target = "js"
+  [[build.cachebusters]]
+    source = "assets/.*\\.(.*)$"
+    target = "$1"
+
+[menu]
+[[menu.footer]]
+  name = "GitHub"
+  url = "https://github.com/LNA-DEV"
+  weight = 3
+[[menu.footer]]
+  name = "Website"
+  url = "https://lna-dev.net"
+  weight = 3
