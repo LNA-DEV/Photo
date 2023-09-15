@@ -8,7 +8,7 @@ on:
 
 env:
   NAME: ./
-  CONTAINER-NAME: lna-dev-photo
+  CONTAINER-NAME: lna_photo
 
 jobs:
   ReleaseDEV:
@@ -24,6 +24,9 @@ jobs:
         with:
           extended: true
 
+      - run: npm install
+        working-directory: ./${{ env.NAME }}/
+        
       # Build the hugo repository
       - run: hugo
         working-directory: ./${{ env.NAME }}/
