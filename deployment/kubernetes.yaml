@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: photo
-          image: lnadev/photo:{{RUN_NUMBER}}
+          image: lnadev/lna_photo:{{RUN_NUMBER}}
           imagePullPolicy: Always
           resources:
             limits:
