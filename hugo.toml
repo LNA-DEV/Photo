@@ -6,6 +6,7 @@ defaultContentLanguage = "en"
 enableRobotsTXT = true
 timeZone = "Europe/Berlin"
 theme = "github.com/nicokaiser/hugo-theme-gallery"
+timeout = "120s"
 
 [params]
   title = "My Gallery"
