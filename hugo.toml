@@ -26,7 +26,7 @@ theme = "github.com/nicokaiser/hugo-theme-gallery"
   [imaging.exif]
     disableDate = false
     disableLatLong = true
-    includeFields = "ImageDescription"
+    # includeFields = "ImageDescription"
 
 [module]
   [module.hugoVersion]
