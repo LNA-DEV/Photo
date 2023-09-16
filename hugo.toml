@@ -59,8 +59,12 @@ timeout = "240s"
 [[menu.footer]]
   name = "GitHub"
   url = "https://github.com/LNA-DEV"
-  weight = 3
+  weight = 1
 [[menu.footer]]
   name = "Website"
   url = "https://lna-dev.net"
+  weight = 2
+[[menu.footer]]
+  name = "Archive"
+  url = "/archive"
   weight = 3
