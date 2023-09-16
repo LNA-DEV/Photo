@@ -1,6 +1,6 @@
 title = "LNA-DEV Gallery"
 languageCode = "en-us"
-copyright = "© Lukas Nagel"
+copyright = "© CC-BY-SA Lukas Nagel"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -9,8 +9,8 @@ theme = "github.com/nicokaiser/hugo-theme-gallery"
 timeout = "240s"
 
 [params]
-  title = "My Gallery"
-  description = "Example site for hugo-theme-gallery"
+  title = "LNA-DEV Gallery"
+  description = "Photography of Lukas Nagel / LNA-DEV"
   defaultTheme = "dark"
 
 [author]
