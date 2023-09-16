@@ -26,8 +26,8 @@ timeout = "240s"
   quality = 100
   [imaging.exif]
     disableDate = false
-    disableLatLong = true
-    # includeFields = "ImageDescription"
+    disableLatLong = false
+    includeFields = ""
 
 [module]
   [module.hugoVersion]
