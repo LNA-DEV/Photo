@@ -1,7 +1,7 @@
 ---
 title: "Plants"
 draft: false
-weight: 3
+weight: 4
 description: Photography about plants and nature
 ---
 
