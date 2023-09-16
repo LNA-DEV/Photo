@@ -1,6 +1,6 @@
 title = "LNA-DEV Gallery"
 languageCode = "en-us"
-copyright = "© CC-BY-SA Lukas Nagel"
+copyright = "🄯 CC-BY-SA Lukas Nagel"
 disableKinds = ["taxonomy", "term"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
@@ -26,8 +26,8 @@ timeout = "240s"
   quality = 100
   [imaging.exif]
     disableDate = false
-    disableLatLong = true
-    # includeFields = "ImageDescription"
+    disableLatLong = false
+    includeFields = ""
 
 [module]
   [module.hugoVersion]
@@ -59,8 +59,12 @@ timeout = "240s"
 [[menu.footer]]
   name = "GitHub"
   url = "https://github.com/LNA-DEV"
-  weight = 3
+  weight = 1
 [[menu.footer]]
   name = "Website"
   url = "https://lna-dev.net"
+  weight = 2
+[[menu.footer]]
+  name = "Archive"
+  url = "/archive"
   weight = 3
