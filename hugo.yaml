@@ -13,12 +13,10 @@ params:
   title: LNA-DEV Gallery
   description: Photography of Lukas Nagel / LNA-DEV
   defaultTheme: dark
-  sort_order: desc # Not working. Why?
-  sort_by: Exif.Date # Not working. Why?
   assets:
-    faviconSvg: 'https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg'
-    faviconPng: 'https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg'
-    appleTouchIcon: 'https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg'
+    faviconSvg: "https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg"
+    faviconPng: "https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg"
+    appleTouchIcon: "https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg"
 author:
   name: Lukas Nagel
 outputs:
@@ -35,34 +33,14 @@ imaging:
   exif:
     disableDate: false
     disableLatLong: false
-    includeFields: ''
-# module:
-#   hugoVersion:
-#     extended: false
-#     min: v0.112.0
-#   mounts:
-#     - source: assets
-#       target: assets
-#     - source: hugo_stats.json
-#       target: assets/watching/hugo_stats.json
-# build:
-#   writeStats: true
-#   cachebusters:
-#     - source: assets/watching/hugo_stats\.json
-#       target: styles\.css
-#     - source: (postcss|tailwind)\.config\.js
-#       target: css
-#     - source: assets/.*\.(js)
-#       target: js
-#     - source: assets/.*\.(.*)$
-#       target: $1
+    includeFields: ""
 menu:
   footer:
     - name: GitHub
-      url: 'https://github.com/LNA-DEV'
+      url: "https://github.com/LNA-DEV"
       weight: 1
     - name: Website
-      url: 'https://lna-dev.net'
+      url: "https://lna-dev.net"
       weight: 2
     - name: Archive
       url: /archive
