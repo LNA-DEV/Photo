@@ -26,6 +26,9 @@ jobs:
 
       - run: npm install
         working-directory: ./${{ env.NAME }}/
+
+      - run: exiftool -overwrite_original -IPTC:CopyrightNotice="Lukas Nagel" -IPTC:By-line="Lukas Nagel" -IPTC:Credit="Lukas Nagel" -XMP-xmpRights:WebStatement="https://creativecommons.org/licenses/by-sa/4.0/" -r .
+        working-directory: ./${{ env.NAME }}/content
         
       # Build the hugo repository
       - run: hugo
