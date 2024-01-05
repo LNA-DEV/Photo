@@ -37,11 +37,14 @@ imaging:
 menu:
   footer:
     - name: GitHub
-      url: "https://github.com/LNA-DEV"
+      url: https://github.com/LNA-DEV
       weight: 1
     - name: Website
-      url: "https://lna-dev.net"
+      url: https://lna-dev.net
       weight: 2
+    - name: Mastodon
+      url: https://mastodon.online/@lna_dev
+      weight: 3
     - name: Archive
       url: /archive
-      weight: 3
+      weight: 4
