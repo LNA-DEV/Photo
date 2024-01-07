@@ -45,6 +45,8 @@ menu:
     - name: Mastodon
       url: https://mastodon.online/@lna_dev
       weight: 3
+      params:
+        rel: me
     - name: Archive
       url: /archive
       weight: 4
