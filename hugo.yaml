@@ -36,17 +36,22 @@ imaging:
     includeFields: ""
 menu:
   footer:
-    - name: GitHub
-      url: https://github.com/LNA-DEV
-      weight: 1
     - name: Website
       url: https://lna-dev.net
-      weight: 2
+      weight: 1
     - name: Mastodon
       url: https://mastodon.online/@lna_dev
+      weight: 2
+      params:
+        rel: me
+    - name: Pixelfed
+      url: https://pixelfed.de/LNA-DEV
       weight: 3
       params:
         rel: me
+    - name: GitHub
+      url: https://github.com/LNA-DEV
+      weight: 4
     - name: Archive
       url: /archive
-      weight: 4
+      weight: 5
