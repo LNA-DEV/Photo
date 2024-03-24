@@ -1,7 +1,7 @@
 ---
 title: "Landscape"
 draft: false
-weight: 4
+weight: 2
 description: Beautiful scenery in nature
 ---
 
