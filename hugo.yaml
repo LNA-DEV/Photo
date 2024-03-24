@@ -13,11 +13,11 @@ params:
   title: LNA-DEV Gallery
   description: Photography of Lukas Nagel / LNA-DEV
   defaultTheme: dark
-  assets:
-    faviconSvg: "https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg"
-    faviconPng: "https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg"
-    appleTouchIcon: "https://lna-dev.net/assets/Ping%C3%BCino/Ping%C3%BCino.svg"
-author:
+  author:
+    email: photo@lna-dev.net
+    name: Lukas Nagel
+  # socialIcons:
+  #   email: photo@lna-dev.net
   name: Lukas Nagel
 outputs:
   page:
