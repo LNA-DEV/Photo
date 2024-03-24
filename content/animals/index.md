@@ -5,4 +5,5 @@ weight: 1
 featured_image: Wild Pig Baby.JPG
 sort_by: image.Exif.Date
 sort_order: desc
+menu: main
 ---
