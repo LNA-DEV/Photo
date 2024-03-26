@@ -16,8 +16,12 @@ params:
   author:
     email: photo@lna-dev.net
     name: Lukas Nagel
-  # socialIcons:
-  #   email: photo@lna-dev.net
+  socialIcons:
+    email: photo@lna-dev.net
+    website: https://lna-dev.net
+    mastodon: https://mastodon.online/@lna_dev
+    pixelfed: https://pixelfed.de/LNA-DEV
+    # github: https://github.com/LNA-DEV
   name: Lukas Nagel
 outputs:
   page:
@@ -36,22 +40,6 @@ imaging:
     includeFields: ""
 menu:
   footer:
-    - name: Website
-      url: https://lna-dev.net
-      weight: 1
-    - name: Mastodon
-      url: https://mastodon.online/@lna_dev
-      weight: 2
-      params:
-        rel: me
-    - name: Pixelfed
-      url: https://pixelfed.de/LNA-DEV
-      weight: 3
-      params:
-        rel: me
-    - name: GitHub
-      url: https://github.com/LNA-DEV
-      weight: 4
-    - name: Archive
+    - name: View archive
       url: /archive
-      weight: 5
+      weight: 1
