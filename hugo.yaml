@@ -43,3 +43,6 @@ menu:
     - name: View archive
       url: /archive
       weight: 1
+    - name: More of me
+      url: https://lna-dev.net
+      weight: 2
