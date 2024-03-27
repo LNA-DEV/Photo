@@ -17,7 +17,7 @@ params:
     email: photo@lna-dev.net
     name: Lukas Nagel
   socialIcons:
-    email: photo@lna-dev.net
+    email: mailto:photo@lna-dev.net
     website: https://lna-dev.net
     mastodon: https://mastodon.online/@lna_dev
     pixelfed: https://pixelfed.de/LNA-DEV
