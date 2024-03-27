@@ -1,6 +1,6 @@
 ---
 title: Animals
-description: Animals are cute and awesome. Here are my pics.
+description: "I really enjoy taking pictures of animals. I think this is one of the hardest categories because you have to your models first. But if you do it will always look cute."
 weight: 1
 featured_image: Wild Pig Baby.JPG
 sort_by: image.Exif.Date
