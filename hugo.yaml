@@ -1,4 +1,5 @@
 title: LNA-DEV Gallery
+baseURL: https://photo.lna-dev.net
 languageCode: en-us
 copyright: "\U0001F12F CC-BY-SA Lukas Nagel"
 disableKinds:
@@ -37,7 +38,7 @@ imaging:
   exif:
     disableDate: false
     disableLatLong: false
-    includeFields: ""
+    # includeFields: ""
 menu:
   footer:
     - name: View archive
