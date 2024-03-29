@@ -34,7 +34,7 @@
     {{- if not (in .Path "/archive/") -}}
     {{- range .Resources.ByType "image" -}}
     <item>
-      <title>{{ .Title }}</title>
+      <title>{{ .Name }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Exif.Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
@@ -42,7 +42,10 @@
 
         <media:content url="{{ .Permalink }}" type="image/jpeg"/>
         <description>
-            <img src="{{ .Permalink }}"/>
+          <img src="{{ .Permalink }}"/>          
+          {{- if ne .Title .Name -}}
+          <p> {{ .Title }} </p>
+          {{- end -}}
         </description>
     </item>
     {{- end }}
