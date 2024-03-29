@@ -32,30 +32,28 @@
 
     {{- range $pages }}
     {{- if not (in .Path "/archive/") -}}
-    {{- range .Resources.ByType "image" -}}
+    {{ range .Resources.ByType "image" }}
+
     <item>
       <title>{{ .Name }}</title>
       <link>{{ .Permalink }}</link>
       <pubDate>{{ .Exif.Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
-
-        <media:content url="{{ .Permalink }}" type="image/jpeg"/>
-        <description>
-          <img src="{{ .Permalink }}" alt="{{ .Params.Alt }}"/>          
-          {{- if ne .Title .Name -}}
-          <p> {{ .Title }} </p>
-          {{- end -}}
-        </description>
-
-        {{- range .Params.Tags -}}
-        <category>{{ . }}</category>        
-        {{- end -}}
-        
+      <media:content url="{{ .Permalink }}" type="image/jpeg"/>
+      <description>
+        <img src="{{ .Permalink }}" alt="{{ .Params.Alt }}"/>          
+        {{- if ne .Title .Name -}}
+        <p> {{ .Title }} </p>
+        {{ end }}
+      </description>
+      {{ range .Params.Tags }}
+      <category>{{ . }}</category>        
+      {{- end }}
     </item>
-    {{- end }}
-    {{- end }}
-    {{- end }}
-
+    {{- end -}}
+    {{- end -}}
+    {{ end }}
+    
   </channel>
 </rss>
