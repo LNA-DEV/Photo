@@ -42,7 +42,7 @@
 
         <media:content url="{{ .Permalink }}" type="image/jpeg"/>
         <description>
-          <img src="{{ .Permalink }}"/>          
+          <img src="{{ .Permalink }}" alt="{{ .Params.Alt }}"/>          
           {{- if ne .Title .Name -}}
           <p> {{ .Title }} </p>
           {{- end -}}
