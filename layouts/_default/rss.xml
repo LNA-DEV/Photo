@@ -47,6 +47,11 @@
           <p> {{ .Title }} </p>
           {{- end -}}
         </description>
+
+        {{- range .Params.Tags -}}
+        <category>{{ . }}</category>        
+        {{- end -}}
+        
     </item>
     {{- end }}
     {{- end }}
