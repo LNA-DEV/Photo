@@ -16,7 +16,7 @@ resources:
     params:
       tags: [photo, photography, nature, naturephotography, garden, gardenphotography, green]
       alt: Not focused image of the tree tops
-  - src: House in the fog.JPG
+  - src: House-in-the-fog.JPG
     params:
       tags: [photo, photography, nature, naturephotography, cottage, mountains, tree, alps]
       alt: A small mountain cottage standing between two trees in the fog.
@@ -44,15 +44,15 @@ resources:
     params:
       tags: [photo, photography, outdoor, green, nature, naturephotography, house]
       alt: A little house for mystical creatures some children build in the woods.
-  - src: Smoking Fire.JPG
+  - src: Smoking-Fire.JPG
     params:
       tags: [photo, photography, fire, wood, nature, garden, naturephotography, gardenphotography]
       alt: A log of wood burning in a green garden.
-  - src: Stone trash.JPG
+  - src: Stone-trash.JPG
     params:
       tags: [photo, photography, stone, drone, dronephotography, environment, trash]
       alt: Drone photo of some stone frames laying on more stone.
-  - src: Stone texture.JPG
+  - src: StoneTexture.JPG
     params:
       tags: [photo, photography, stone, texture]
       alt: Gravel / little stones laying on the ground.
