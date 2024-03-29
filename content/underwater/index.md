@@ -6,5 +6,10 @@ description: "Sadly I have very few pictures in this category. But I really like
 sort_by: image.Exif.Date
 sort_order: desc
 menu: main
+resources:
+  - src: Riff.JPG
+    params:
+      tags: [photo, photography, underwater, underwaterphotography, fish, blue, ocean]
+      alt: Underwater photo of a little stone overhang.
 ---
 
