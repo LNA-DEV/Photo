@@ -32,6 +32,11 @@ resources:
       tags: [photo, photography, france, sea, old, building, boat, outdoor]
       alt: Old building and boat at the sea in France.
 
+  - src: P1002838.JPG
+    params:
+      tags: [photo, photography, france, sea, old, building, boat, outdoor]
+      alt: Old building and boat at the sea in France.
+
   - src: P1002953.JPG
     params:
       tags: [photo, photography, france, statue, golden]

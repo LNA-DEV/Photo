@@ -280,23 +280,23 @@ resources:
 
   - src: P1002810.JPG
     params:
-      tags: [photo, photography, river, kayaking, cliffs, outdoor activity, nature, adventure]
-      alt: Kayakers navigating a river flanked by steep cliffs under a clear blue sky.
+      tags: [photo, photography, waterfall, nature, cliffs, water, rocks, lush, powerful]
+      alt: Multi-tiered waterfall cascading down rugged cliffs, embraced by lush vegetation.
 
   - src: P1002914.JPG
     params:
-      tags: [photo, photography, sunset, mountains, silhouettes, dusk, serene, landscape]
-      alt: The sun setting behind mountains, casting silhouettes and a serene landscape.
+      tags: [photo, photography, river, france, Ardèche, kayaking]
+      alt: Kayaking on the Ardèche.
 
   - src: P1003038.JPG
     params:
-      tags: [photo, photography, landscape, mountain, clouds, nature, outdoors, panoramic]
-      alt: Expansive view of mountain peaks emerging above the cloud line under a blue sky.
+      tags: [photo, photography, river, france, Ardèche]
+      alt: River snailing around big rocks.
 
   - src: P1013517.JPG
     params:
-      tags: [photo, photography, mountains, greenery, pasture, rural, tranquility, nature]
-      alt: Lush green pasture with a mountain backdrop under a bright blue sky.
+      tags: [photo, photography, mountains, greenery, rural, tranquility, nature, lake]
+      alt: Small lake with mountains in the background.
 
   - src: P1013749.JPG
     params:
@@ -452,4 +452,54 @@ resources:
     params:
       tags: [photo, photography, winter, mountains, snow, clouds, mist, forest, nature, landscape]
       alt: Snow-covered mountains rising above a blanket of clouds and mist with a forest in the foreground under a clear blue sky.
+
+  - src: P1013601.JPG
+    params:
+      tags: [photo, photography, mountains, mist, nature, landscape, alps, bavaria, germany]
+      alt: A misty image of a alpine mountain.
+
+  - src: P1013611.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany, sun, flower, lensflare]
+      alt: A image in the mountains with a hand holding a flower against the sun.
+
+  - src: P1013620.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany, lensflare]
+      alt: A image ouf mountains and light which shines beautiful between them.
+
+  - src: P1013624.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany, lensflare]
+      alt: A image ouf mountains and light which shines beautiful between them.
+      
+  - src: P1013630.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany, lensflare]
+      alt: A image ouf mountains and light which shines beautiful between them.
+      
+  - src: P1013620.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany, lensflare]
+      alt: A image ouf mountains and a nice lens flare. In the foreground there stands a tree.
+      
+  - src: P1013624.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany, lensflare]
+      alt: A image ouf mountains and a nice lens flare. In the foreground there stands a tree.
+      
+  - src: P1013673.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany]
+      alt: A image of a green field and a mountain in the background.
+
+  - src: P1013685.JPG
+    params:
+      tags: [photo, photography, mountains, nature, landscape, alps, bavaria, germany, water, lake]
+      alt: A image of the sun shining threw the leafs of a tree. Below is a lake.
+
+  - src: P1013693.JPG
+    params:
+      tags: [photo, photography, nature, water, lake, reflection, sun]
+      alt: The shining reflection of the sun in the water of a lake.
 ---

@@ -30,7 +30,7 @@ resources:
   - src: Bee.JPG
     params:
       tags: [photo, bee, insect, wings, pollinator, nature, wildlife, macro]
-      alt: A bee in flight with its wings blurred in motion, captured in a natural setting.
+      alt: A bee siting on a yellow tulip.
 
   - src: Bee-from-the-front.JPG
     params:
@@ -45,7 +45,7 @@ resources:
   - src: Blackbird-an-the-fence.JPG
     params:
       tags: [photo, blackbird, bird, fence, perched, wildlife, nature, outdoor]
-      alt: A blackbird perched confidently on a fence, with a clear sky in the background.
+      alt: A blackbird perched confidently on a fence.
 
   - src: Bumblebee-on-the-flowers.JPG
     params:
@@ -85,12 +85,12 @@ resources:
   - src: Duck-swimming.JPG
     params:
       tags: [photo, duck, swimming, waterfowl, pond, calm, reflection, nature]
-      alt: A duck swimming in a calm pond, its white feathers contrasting with the blue water.
+      alt: A duck swimming in a calm pond.
 
   - src: Duckys.JPG
     params:
       tags: [photo, ducks, ducklings, water, family, wildlife, cute, nature]
-      alt: Ducklings clustered together in the water, following a parent duck, showcasing their early life stages.
+      alt: Ducklings clustered together in the water, next to a parent duck, showcasing their early life stages.
 
   - src: Grasshopper.JPG
     params:
@@ -150,7 +150,7 @@ resources:
   - src: P1002394.JPG
     params:
       tags: [photo, ducks, swimming, lake, ripples, wildlife, tranquility, nature]
-      alt: Three ducks creating ripples as they swim in a line across a tranquil lake, with the reflection of the sky on the water.
+      alt: Three ducks creating ripples as they swim in a line across a river, with the reflection of the sky on the water.
 
   - src: P1002418.JPG
     params:
@@ -229,18 +229,18 @@ resources:
 
   - src: P1002593.JPG
     params:
-      tags: [photo, photography, animal, cow, insects, farm, countryside]
-      alt: A close-up of a cow's face covered with flies in a countryside setting.
+      tags: [photo, photography, animal, geese, family, chicks, nature]
+      alt: A family of geese with fluffy chicks walking through a natural lakeside habitat.
 
   - src: P1002650.JPG
     params:
-      tags: [photo, photography, animal, bird, tree, hidden, leaves]
-      alt: A hidden bird among the branches and green leaves of a lush tree.
+      tags: [photo, photography, animal, cow, insects, farm, countryside]
+      alt: A close-up of a cow's face covered with flies in a countryside setting.
 
   - src: P1002651.JPG
     params:
-      tags: [photo, photography, animal, sheep, grazing, field, farm]
-      alt: A sheep grazing on the green pasture of a peaceful farm.
+      tags: [photo, photography, animal, cow, insects, farm, countryside]
+      alt: A close-up of a cow's face covered with flies in a countryside setting.
 
   - src: P1002501.JPG
     params:
@@ -279,13 +279,23 @@ resources:
 
   - src: P1013559.JPG
     params:
-      tags: [photo, photography, bird, woodpecker, tree, nature, camouflage]
-      alt: A woodpecker clinging to the trunk of a pine tree, its feathers blending with the bark.
+      tags: [photo, photography, gosse, river, water, animal, animalphotography]
+      alt: A few goose siting on a small sandbank in a river.
 
   - src: P1013564.JPG
     params:
-      tags: [photo, photography, animal, sheep, curious, farm, nature]
-      alt: A curious sheep staring directly at the camera with an inquisitive gaze.
+      tags: [photo, photography, gosse, river, water, animal, animalphotography]
+      alt: A few goose siting on a small sandbank in a river.
+
+  - src: P1013568.JPG
+    params:
+      tags: [photo, photography, gosse, river, water, animal, animalphotography]
+      alt: A few goose siting on a small sandbank in a river.
+
+  - src: P1013578.JPG
+    params:
+      tags: [photo, photography, gosse, river, water, animal, animalphotography]
+      alt: A few goose siting on a small sandbank in a river.
 
   - src: Snail.JPG
     params:
@@ -309,7 +319,7 @@ resources:
 
   - src: White-Seagull-looking-to-the-side.JPG
     params:
-      tags: [photo, photography, seagull, bird, wildlife, profile, animal, observing]
+      tags: [photo, photography, seagull, bird, wildlife, animal, observing]
       alt: A white seagull with a sharp profile looking to the side against a clear sky.
 
   - src: Wild-Pig-Baby.JPG
@@ -320,7 +330,7 @@ resources:
   - src: Wild-Pig-Baby-searching-for-food.JPG
     params:
       tags: [photo, photography, piglet, foraging, nature, wildlife, feeding]
-      alt: A wild piglet sniffing the ground in search of food amongst fallen leaves.
+      alt: A wild piglet sniffing the ground in search of food.
 
   - src: Wild-Pig-Baby-walking.JPG
     params:
@@ -335,5 +345,90 @@ resources:
   - src: WuffWuff.JPG
     params:
       tags: [photo, photography, dog, pet, resting, animal, cozy, domestic]
-      alt: A content dog lying down on a striped cushion, taking a restful nap.
+      alt: A dog lying down on a striped cushion, taking a restful nap.
+
+  - src: DuckOnTheBeach.JPG
+    params:
+      tags: [photo, photography, duck, lake, water, nature, naturephotography, animal]
+      alt: A duck standing at the side of a lake.
+
+  - src: P1002715.JPG
+    params:
+      tags: [photo, photography, woodpecker, green, outside, nature, naturephotography, tree]
+      alt: A woodpecker in the tree.
+
+  - src: P1013510.JPG
+    params:
+      tags: [photo, photography, sheep, nature, naturephotography, animal, animalphotography]
+      alt: A sheep touching grass.
+
+  - src: P1013594.JPG
+    params:
+      tags: [photo, photography, cow, alps, mountain, forest, trees]
+      alt: A brown cow in the Bavarian alps.
+
+  - src: P1013599.JPG
+    params:
+      tags: [photo, photography, cow, alps, mountain, forest, trees]
+      alt: A brown cow in the Bavarian alps.
+
+  - src: P1013612.JPG
+    params:
+      tags: [photo, photography, cow, alps, mountain, forest, trees]
+      alt: A brown cow in the Bavarian alps.
+
+  - src: P1013597.JPG
+    params:
+      tags: [photo, photography, cow, alps, mountain, forest, trees]
+      alt: Two brown / white cows in the Bavarian alps.
+
+  - src: P1013617.JPG
+    params:
+      tags: [photo, photography, alps, mountain, forest, trees, chamois]
+      alt: A chamois in the Bavarian alps.
+
+  - src: P1013732.JPG
+    params:
+      tags: [photo, photography, trees, bird, birdphotography, cute]
+      alt: A small brown bird on a tree.
+
+  - src: Perfectly-aligned-seagull.JPG
+    params:
+      tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
+      alt: A perfectly aligned flying seagull.
+
+  - src: Posing-Seagull.JPG
+    params:
+      tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
+      alt: A seagull siting on a little roof.
+
+  - src: Seagull-watching-sunset.JPG
+    params:
+      tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
+      alt: A seagull siting on a little roof.
+
+  - src: Seagull-eating-trash.JPG
+    params:
+      tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
+      alt: A seagull eating trash.
+
+  - src: Seagull-flying-over-the-sea.JPG
+    params:
+      tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
+      alt: A seagull flying threw the image and over the sea.
+
+  - src: Seagull-mirroring.JPG
+    params:
+      tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
+      alt: A seagull flying over the sea.
+
+  - src: SheepStaringAtTheCamera.JPG
+    params:
+      tags: [photo, photography, sheep, nature, animal, animalphotography]
+      alt: A little sheep looking into the camera.
+
+  - src: WhiteDucky.JPG
+    params:
+      tags: [photo, photography, duck, lake, mountains, trees]
+      alt: A small duck siting at the side of a lake.
 ---
