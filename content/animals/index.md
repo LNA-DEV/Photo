@@ -7,12 +7,12 @@ sort_by: image.Exif.Date
 sort_order: desc
 menu: main
 resources:
-  - src: Alpaca-behind-tree.JPG
+  - src: Alpaca behind tree.JPG
     params:
       tags: [photo, alpaca, wildlife, nature, tree, animal, hidden, outdoor]
       alt: An alpaca peeking out from behind a tree in a natural setting.
 
-  - src: Alpaca-Portrait.JPG
+  - src: Alpaca Portrait.JPG
     params:
       tags: [photo, alpaca, portrait, close-up, animal, face, wildlife, outdoor]
       alt: Close-up portrait of an alpaca with a natural backdrop.
@@ -32,22 +32,22 @@ resources:
       tags: [photo, bee, insect, wings, pollinator, nature, wildlife, macro]
       alt: A bee siting on a yellow tulip.
 
-  - src: Bee-from-the-front.JPG
+  - src: Bee from the front.JPG
     params:
       tags: [photo, bee, front view, insect, face, pollinator, wildlife, macro]
       alt: Frontal view of a bee showcasing its face and antennae with a clear focus.
 
-  - src: Bee-on-white-flowers.JPG
+  - src: Bee on white flowers.JPG
     params:
       tags: [photo, bee, white flowers, pollination, nature, insect, bloom, spring]
       alt: A bee collecting nectar from white flowers, with a soft-focus background.
 
-  - src: Blackbird-an-the-fence.JPG
+  - src: Blackbird-an the fence.JPG
     params:
       tags: [photo, blackbird, bird, fence, perched, wildlife, nature, outdoor]
       alt: A blackbird perched confidently on a fence.
 
-  - src: Bumblebee-on-the-flowers.JPG
+  - src: Bumblebee on the flowers.JPG
     params:
       tags: [photo, bumblebee, flowers, pollination, insect, nature, garden, colorful]
       alt: A bumblebee busily pollinating vibrant flowers in a garden.
@@ -112,12 +112,12 @@ resources:
       tags: [photo, dragonfly, insect, nature, green, wings open, wildlife, vibrant]
       alt: A vibrant green dragonfly with open wings resting on green foliage, with a blurred background.
 
-  - src: Green-Lizard.JPG
+  - src: Green Lizard.JPG
     params:
       tags: [photo, lizard, reptile, green, nature, wildlife, close-up, sunning]
       alt: A green lizard basking on a rock, with its textured skin and bright eyes highlighted by the sunlight.
 
-  - src: Lizard-Fight.JPG
+  - src: Lizard Fight.JPG
     params:
       tags: [photo, lizards, reptiles, fight, nature, wildlife, confrontation, behavior]
       alt: Two lizards in a dynamic confrontation on the ground, displaying natural behavior in the wild.
@@ -132,7 +132,7 @@ resources:
       tags: [photo, lizard, reptile, stone, nature, wildlife, basking, camouflage]
       alt: A camouflaged lizard lying on a textured stone, blending in with its surroundings in natural habitat.
 
-  - src: Mr-Gray-Seagull.JPG
+  - src: Mr Gray Seagull.JPG
     params:
       tags: [photo, seagull, bird, flying, sky, wings, freedom, wildlife]
       alt: A seagull with gray and white plumage soaring in the blue sky, wings spread wide.
@@ -392,27 +392,27 @@ resources:
       tags: [photo, photography, trees, bird, birdphotography, cute]
       alt: A small brown bird on a tree.
 
-  - src: Perfectly-aligned-seagull.JPG
+  - src: Perfectly aligned seagull.JPG
     params:
       tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
       alt: A perfectly aligned flying seagull.
 
-  - src: Posing-Seagull.JPG
+  - src: Posing Seagull.JPG
     params:
       tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
       alt: A seagull siting on a little roof.
 
-  - src: Seagull-watching-sunset.JPG
+  - src: Seagull watching sunset.JPG
     params:
       tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
       alt: A seagull siting on a little roof.
 
-  - src: Seagull-eating-trash.JPG
+  - src: Seagull eating trash.JPG
     params:
       tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
       alt: A seagull eating trash.
 
-  - src: Seagull-flying-over-the-sea.JPG
+  - src: Seagull flying over the sea.JPG
     params:
       tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
       alt: A seagull flying threw the image and over the sea.
