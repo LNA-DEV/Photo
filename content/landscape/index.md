@@ -9,154 +9,154 @@ sort_order: desc
 menu: main
 resources:
   - src: All over the mountains.JPG
-      params:
-        tags: [photo, photography, mountains, alps, snow, nature, clouds, scenic, panorama]
-        alt: Panoramic view of the snow-capped Alps with clouds below the mountain peaks.
+    params:
+      tags: [photo, photography, mountains, alps, snow, nature, clouds, scenic, panorama]
+      alt: Panoramic view of the snow-capped Alps with clouds below the mountain peaks.
 
   - src: AlpSun.JPG
-      params:
-        tags: [photo, photography, sunset, mountains, alps, dusk, nature, clouds, sky]
-        alt: Sunset over the Alps with orange and purple hues in the sky.
+    params:
+      tags: [photo, photography, sunset, mountains, alps, dusk, nature, clouds, sky]
+      alt: Sunset over the Alps with orange and purple hues in the sky.
 
   - src: A million paths.JPG
-      params:
-        tags: [photo, photography, sunrise, mountains, alps, dawn, nature, sky]
-        alt: Sunrise illuminating the peaks of the Alps with a clear blue sky.
+    params:
+      tags: [photo, photography, sunrise, mountains, alps, dawn, nature, sky]
+      alt: Sunrise illuminating the peaks of the Alps with a clear blue sky.
 
   - src: BavarianMountainRocks.JPG
-      params:
-        tags: [photo, photography, bavaria, mountains, rocks, cross, nature, greenery]
-        alt: Rugged Bavarian mountain landscape with a cross on top of rocky peaks.
+    params:
+      tags: [photo, photography, bavaria, mountains, rocks, cross, nature, greenery]
+      alt: Rugged Bavarian mountain landscape with a cross on top of rocky peaks.
 
   - src: BavarianRiesenkopfAndMaiwand.JPG
-      params:
-        tags: [photo, photography, bavaria, mountains, green, nature, forest, scenic]
-        alt: Scenic view of the Bavarian Riesenkopf and Maiwand with lush green slopes.
+    params:
+      tags: [photo, photography, bavaria, mountains, green, nature, forest, scenic]
+      alt: Scenic view of the Bavarian Riesenkopf and Maiwand with lush green slopes.
 
   - src: Bavarian village.JPG
-      params:
-        tags: [photo, photography, village, bavaria, twilight, nature, houses, community]
-        alt: Twilight over a quaint Bavarian village with a backdrop of mountains.
+    params:
+      tags: [photo, photography, village, bavaria, twilight, nature, houses, community]
+      alt: Twilight over a quaint Bavarian village with a backdrop of mountains.
 
   - src: Beautiful sky and sea.JPG
-      params:
-        tags: [photo, photography, sunset, sea, clouds, sky, nature, dramatic]
-        alt: Dramatic sunset with vibrant orange clouds over the sea.
+    params:
+      tags: [photo, photography, sunset, sea, clouds, sky, nature, dramatic]
+      alt: Dramatic sunset with vibrant orange clouds over the sea.
 
   - src: Bridge.JPG
-      params:
-        tags: [photo, photography, bridge, river, mountains, nature, trees, architecture]
-        alt: Wooden bridge crossing a calm river with mountains in the distance.
+    params:
+      tags: [photo, photography, bridge, river, mountains, nature, trees, architecture]
+      alt: Wooden bridge crossing a calm river with mountains in the distance.
 
   - src: BurningSkyline.JPG
-      params:
-        tags: [photo, photography, sunset, skyline, dusk, nature, clouds, silhouette]
-        alt: The sunset creating a fiery skyline with dark cloud silhouettes.
+    params:
+      tags: [photo, photography, sunset, skyline, dusk, nature, clouds, silhouette]
+      alt: The sunset creating a fiery skyline with dark cloud silhouettes.
 
   - src: By the water.JPG
-      params:
-        tags: [photo, photography, river, stones, mountains, nature, clear water, tranquil]
-        alt: Clear and tranquil river flowing with stones and a mountain backdrop.
+    params:
+      tags: [photo, photography, river, stones, mountains, nature, clear water, tranquil]
+      alt: Clear and tranquil river flowing with stones and a mountain backdrop.
 
   - src: ChiemseeFromTheBavarianMountains.JPG
-      params:
-        tags: [photo, photography, chiemsee, bavarian, mountains, lake, nature, scenic, aerial view]
-        alt: Aerial view of Lake Chiemsee from the Bavarian mountains, with clear skies.
+    params:
+      tags: [photo, photography, chiemsee, bavarian, mountains, lake, nature, scenic, aerial view]
+      alt: Aerial view of Lake Chiemsee from the Bavarian mountains, with clear skies.
 
   - src: Cloud bed.JPG
-      params:
-        tags: [photo, photography, winter, mountains, snow, nature, clouds, aerial, scenic]
-        alt: Aerial view of snow-covered fields with a dense bed of clouds between mountain ranges.
+    params:
+      tags: [photo, photography, winter, mountains, snow, nature, clouds, aerial, scenic]
+      alt: Aerial view of snow-covered fields with a dense bed of clouds between mountain ranges.
 
   - src: Cloudisland.JPG
-      params:
-        tags: [photo, photography, sunset, clouds, island, sea, nature, silhouette, dusk]
-        alt: Silhouette of an island against a sunset sky with vibrant clouds over the sea.
+    params:
+      tags: [photo, photography, sunset, clouds, island, sea, nature, silhouette, dusk]
+      alt: Silhouette of an island against a sunset sky with vibrant clouds over the sea.
 
   - src: Clouds at the mountain.JPG
-      params:
-        tags: [photo, photography, mountains, snow, clouds, mist, nature, winter, sunrise]
-        alt: Sunlight breaking through the misty clouds over snowy mountains at dawn.
+    params:
+      tags: [photo, photography, mountains, snow, clouds, mist, nature, winter, sunrise]
+      alt: Sunlight breaking through the misty clouds over snowy mountains at dawn.
 
   - src: Clouds in the distance.JPG
-      params:
-        tags: [photo, photography, winter, village, clouds, mountains, nature, scenic]
-        alt: Winter view of a village with distant clouds hanging low over the mountains.
+    params:
+      tags: [photo, photography, winter, village, clouds, mountains, nature, scenic]
+      alt: Winter view of a village with distant clouds hanging low over the mountains.
 
   - src: Corn.JPG
-      params:
-        tags: [photo, photography, cornfield, nature, agriculture, sunset, clouds, scenic]
-        alt: Sunset over a lush cornfield with dramatic clouds in the sky.
+    params:
+      tags: [photo, photography, cornfield, nature, agriculture, sunset, clouds, scenic]
+      alt: Sunset over a lush cornfield with dramatic clouds in the sky.
 
   - src: Damaged street.JPG
-      params:
-        tags: [photo, photography, street, damage, landslide, nature, road, disaster, infrastructure]
-        alt: Damaged street with a landslide, showing broken asphalt and a view of a reservoir.
+    params:
+      tags: [photo, photography, street, damage, landslide, nature, road, disaster, infrastructure]
+      alt: Damaged street with a landslide, showing broken asphalt and a view of a reservoir.
 
   - src: DarkShadowSundown.JPG
-      params:
-        tags: [photo, photography, sunset, silhouette, trees, nature, dusk, dark, scenic]
-        alt: Dark silhouette of trees against a fiery sunset sky with clouds.
+    params:
+      tags: [photo, photography, sunset, silhouette, trees, nature, dusk, dark, scenic]
+      alt: Dark silhouette of trees against a fiery sunset sky with clouds.
 
   - src: FogyMountains.JPG
-      params:
-        tags: [photo, photography, fog, mountains, trees, mist, nature, scenic, moody]
-        alt: Moody landscape with fog-enveloped mountains and trees.
+    params:
+      tags: [photo, photography, fog, mountains, trees, mist, nature, scenic, moody]
+      alt: Moody landscape with fog-enveloped mountains and trees.
 
   - src: ForestSwap.JPG
-      params:
-        tags: [photo, photography, forest, nature, aerial view, trees, green, environment]
-        alt: Aerial view of a dense forest with a mix of green and yellow treetops.
+    params:
+      tags: [photo, photography, forest, nature, aerial view, trees, green, environment]
+      alt: Aerial view of a dense forest with a mix of green and yellow treetops.
 
   - src: GlowingSky.JPG
-      params:
-        tags: [photo, photography, sunset, sky, clouds, glow, nature, evening]
-        alt: The sky glows with radiant hues of orange and yellow as the sun sets behind clouds.
+    params:
+      tags: [photo, photography, sunset, sky, clouds, glow, nature, evening]
+      alt: The sky glows with radiant hues of orange and yellow as the sun sets behind clouds.
 
   - src: Golden austria.JPG
-      params:
-        tags: [photo, photography, sunset, austria, valley, river, dusk, mountains]
-        alt: A serene sunset over a winding river in an Austrian valley, with mountains in the backdrop.
+    params:
+      tags: [photo, photography, sunset, austria, valley, river, dusk, mountains]
+      alt: A serene sunset over a winding river in an Austrian valley, with mountains in the backdrop.
 
   - src: Golden Sky.JPG
-      params:
-        tags: [photo, photography, sunset, golden, sea, clouds, nature, dusk]
-        alt: Golden rays of the sunset piercing through clouds over the sea.
+    params:
+      tags: [photo, photography, sunset, golden, sea, clouds, nature, dusk]
+      alt: Golden rays of the sunset piercing through clouds over the sea.
 
   - src: Golden Sunset.JPG
-      params:
-        tags: [photo, photography, sunset, golden, silhouette, nature, trees, dusk]
-        alt: The sun setting in a golden blaze, silhouetting trees against a vibrant sky.
+    params:
+      tags: [photo, photography, sunset, golden, silhouette, nature, trees, dusk]
+      alt: The sun setting in a golden blaze, silhouetting trees against a vibrant sky.
 
   - src: GoldenTree.JPG
-      params:
-        tags: [photo, photography, sunset, tree, silhouette, nature, field, dusk]
-        alt: A solitary tree stands silhouetted against a fiery sunset sky.
+    params:
+      tags: [photo, photography, sunset, tree, silhouette, nature, field, dusk]
+      alt: A solitary tree stands silhouetted against a fiery sunset sky.
 
   - src: GrasslandToMountains.JPG
-      params:
-        tags: [photo, photography, landscape, grassland, mountains, nature, scenic, aerial]
-        alt: Expansive view of grasslands leading up to majestic mountains under a cloudy sky.
+    params:
+      tags: [photo, photography, landscape, grassland, mountains, nature, scenic, aerial]
+      alt: Expansive view of grasslands leading up to majestic mountains under a cloudy sky.
 
   - src: Green Forest Road.JPG
-      params:
-        tags: [photo, photography, forest, green, road, nature, trees, aerial]
-        alt: An aerial view of a lush green forest with a road cutting through it.
+    params:
+      tags: [photo, photography, forest, green, road, nature, trees, aerial]
+      alt: An aerial view of a lush green forest with a road cutting through it.
 
   - src: Hell Sky.JPG
-      params:
-        tags: [photo, photography, sunset, clouds, dramatic, sky, dusk, nature]
-        alt: A dramatic sunset with dark clouds creating a hellish ambiance in the sky.
+    params:
+      tags: [photo, photography, sunset, clouds, dramatic, sky, dusk, nature]
+      alt: A dramatic sunset with dark clouds creating a hellish ambiance in the sky.
 
   - src: Hot sky.JPG
-      params:
-        tags: [photo, photography, sunset, clouds, warm, sky, dusk, nature]
-        alt: A sizzling sunset with clouds illuminated in warm shades of red and orange.
+    params:
+      tags: [photo, photography, sunset, clouds, warm, sky, dusk, nature]
+      alt: A sizzling sunset with clouds illuminated in warm shades of red and orange.
 
   - src: InnValley.JPG
-      params:
-        tags: [photo, photography, valley, river, mountains, austria, landscape, nature, scenic]
-        alt: A vibrant aerial view of the Inn Valley with the river snaking through and mountains in the distance.
+    params:
+      tags: [photo, photography, valley, river, mountains, austria, landscape, nature, scenic]
+      alt: A vibrant aerial view of the Inn Valley with the river snaking through and mountains in the distance.
 
   - src: Leaf in the way.JPG
     params:
