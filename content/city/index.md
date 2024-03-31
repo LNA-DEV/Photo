@@ -7,7 +7,7 @@ sort_by: image.Exif.Date
 sort_order: desc
 menu: main
 resources:
-  - src: Ancient-buildings.JPG
+  - src: Ancient buildings.JPG
     params:
       tags: [photo, photography, greece, buildings, ruins, old]
       alt: Ancient buildings in Greece.

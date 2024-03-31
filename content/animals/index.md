@@ -42,7 +42,7 @@ resources:
       tags: [photo, bee, white flowers, pollination, nature, insect, bloom, spring]
       alt: A bee collecting nectar from white flowers, with a soft-focus background.
 
-  - src: Blackbird-an the fence.JPG
+  - src: Blackbird an the fence.JPG
     params:
       tags: [photo, blackbird, bird, fence, perched, wildlife, nature, outdoor]
       alt: A blackbird perched confidently on a fence.
@@ -67,7 +67,7 @@ resources:
       tags: [photo, cat, pet, sphynx, indoor, curious, feline, domestic]
       alt: A Sphynx cat with a wrinkled skin looking to the side, sitting indoors with a pensive expression.
 
-  - src: Dolphins-next-to-boat.JPG
+  - src: Dolphins next to boat.JPG
     params:
       tags: [photo, dolphins, marine life, sunset, ocean, silhouettes, adventure, wildlife]
       alt: Silhouettes of dolphins leaping next to a boat at sunset with a warm sky in the background.
@@ -82,7 +82,7 @@ resources:
       tags: [photo, duck, water, serene, nature, wildlife, contemplative, reflection]
       alt: A white duck on the water looking to the left, with a clear reflection in the tranquil water.
 
-  - src: Duck-swimming.JPG
+  - src: Duck swimming.JPG
     params:
       tags: [photo, duck, swimming, waterfowl, pond, calm, reflection, nature]
       alt: A duck swimming in a calm pond.
@@ -302,7 +302,7 @@ resources:
       tags: [photo, photography, animal, snail, mollusk, slow, detailed]
       alt: A close-up of a snail slowly navigating a rough stone surface.
 
-  - src: Special-Chick.JPG
+  - src: Special Chick.JPG
     params:
       tags: [photo, photography, animal, chicken, colorful, farm, detail]
       alt: A vibrant and colorful chicken captured in fine detail.
@@ -317,27 +317,27 @@ resources:
       tags: [photo, photography, sheep, animals, pasture, nature, rural, grazing]
       alt: Two sheep, one young and one mature, grazing on a green pasture.
 
-  - src: White-Seagull-looking-to-the-side.JPG
+  - src: White Seagull looking to the side.JPG
     params:
       tags: [photo, photography, seagull, bird, wildlife, animal, observing]
       alt: A white seagull with a sharp profile looking to the side against a clear sky.
 
-  - src: Wild-Pig-Baby.JPG
+  - src: Wild Pig Baby.JPG
     params:
       tags: [photo, photography, wild pig, piglet, nature, wildlife, forest floor]
       alt: A young wild pig with light brown fur foraging on the forest floor.
 
-  - src: Wild-Pig-Baby-searching-for-food.JPG
+  - src: Wild Pig Baby searching for food.JPG
     params:
       tags: [photo, photography, piglet, foraging, nature, wildlife, feeding]
       alt: A wild piglet sniffing the ground in search of food.
 
-  - src: Wild-Pig-Baby-walking.JPG
+  - src: Wild Pig Baby walking.JPG
     params:
       tags: [photo, photography, piglet, wildlife, nature, walking, exploration]
       alt: A small wild piglet walking carefully on a rocky forest path.
 
-  - src: Wild-Pig-from-the-side.JPG
+  - src: Wild Pig from the side.JPG
     params:
       tags: [photo, photography, wild pig, side view, wildlife, nature, forest]
       alt: A side view of a wild pig standing on a forest stump, surrounded by trees.
@@ -417,7 +417,7 @@ resources:
       tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
       alt: A seagull flying threw the image and over the sea.
 
-  - src: Seagull-mirroring.JPG
+  - src: Seagull mirroring.JPG
     params:
       tags: [photo, photography, seagull, bird, birdphotography, animal, animalphotography]
       alt: A seagull flying over the sea.

@@ -18,7 +18,7 @@ resources:
       tags: [photo, photography, purple, flowers, nature, lake, tranquil, water, reflection, floral, wildflowers]
       alt: Purple flowers in the foreground with a serene lake in the background.
 
-  - src: Closed-Rose.JPG
+  - src: Closed Rose.JPG
     params:
       tags: [photo, photography, rose, flower, bud, pink, nature, garden, bloom, delicate, floral]
       alt: Close-up of a pink rose bud about to bloom, with soft green leaves in the background.
@@ -38,17 +38,17 @@ resources:
       tags: [photo, photography, pink, flowers, wood, nature, bloom, bush, garden, lush, spring]
       alt: Lush pink flowers blooming on a bush with wooden fence in the background.
 
-  - src: Grey-Mushroom.JPG
+  - src: Grey Mushroom.JPG
     params:
       tags: [photo, photography, mushrooms, grey, forest, nature, fungi, ground, woodsy, earthy]
       alt: Two grey mushrooms with textured caps growing close together on the forest floor.
 
-  - src: Autumn-feelings.JPG
+  - src: Autumn feelings.JPG
     params:
       tags: [photo, photography, autumn, forest, leaves, path, trees, fall colors, nature, scenic, tranquility]
       alt: A forest path covered with fallen autumn leaves, surrounded by trees with golden foliage.
 
-  - src: Insects-in-love.JPG
+  - src: Insects in love.JPG
     params:
       tags: [photo, photography, insects, nature, flowers, close-up, wildlife, mating, bugs, summer, white flowers]
       alt: Two red insects mating on a cluster of small white flowers, with a green blurry background.
@@ -63,7 +63,7 @@ resources:
       tags: [photo, photography, red, tulip, close-up, macro, flower, petals, nature, spring, intense]
       alt: Close-up view inside a deep red tulip, focusing on the stamens and pollen with a vibrant red backdrop.
 
-  - src: In-the-tree-tops.JPG
+  - src: In the tree tops.JPG
     params:
       tags: [photo, photography, trees, sky, autumn, leaves, canopy, nature, treetops, upward view, fall]
       alt: Looking up towards the sky through a canopy of autumn-colored treetops with scattered clouds.
@@ -268,17 +268,17 @@ resources:
       tags: [photo, photography, flower, rose, pink, mountain, nature, landscape]
       alt: Pink roses in bloom with a majestic mountain range in the background, under a clear blue sky.
 
-  - src: Purple-Flowers-in-the-Mountains.JPG
+  - src: Purple Flowers in the Mountains.JPG
     params:
       tags: [photo, photography, flowers, clematis, purple, mountain, nature]
       alt: Purple clematis flowers with a backdrop of hazy mountains, showcasing nature's beauty in the highlands.
 
-  - src: Red-berrys.JPG
+  - src: Red berrys.JPG
     params:
       tags: [photo, photography, berries, red, tree, nature, wild]
       alt: Bright red berries on a tree branch, contrasted with green leaves and a clear blue sky.
 
-  - src: Snail-on-a-leaf.JPG
+  - src: Snail on a leaf.JPG
     params:
       tags: [photo, photography, snail, leaf, nature, wildlife, close-up]
       alt: A snail carefully perched on a colorful leaf, with a blurred background emphasizing the creature and its perch.
@@ -288,7 +288,7 @@ resources:
       tags: [photo, photography, flower, sunflower, yellow, nature, insects, summer]
       alt: A bright yellow sunflower with a busy bee on its dark center, set against a blue sky.
 
-  - src: The-high-grass.JPG
+  - src: The high grass.JPG
     params:
       tags: [photo, nature, wildflowers, meadow, summer, bokeh]
       alt: A close-up of purple wildflowers and tall grasses in a sunlit meadow, with a soft-focus background.
@@ -298,17 +298,17 @@ resources:
       tags: [photo, flowers, tulips, spring, vibrant, close-up]
       alt: A vibrant yellow tulip with fringed edges in sharp focus, surrounded by soft-focus red tulips and a blurred white background.
 
-  - src: Wannabe-wasps.JPG
+  - src: Wannabe wasps.JPG
     params:
       tags: [photo, insects, hoverflies, mimicry, flowers, nature]
       alt: Hoverflies, resembling small wasps, resting on delicate white flowers, with a lush green background.
 
-  - src: Wasp-on-the-flowers.JPG
+  - src: Wasp on the flowers.JPG
     params:
       tags: [photo, wasp, pollination, flowers, nature, wildlife]
       alt: A wasp collecting pollen on white flower clusters, with a deep green foliage background.
 
-  - src: Water-Lily.JPG
+  - src: Water Lily.JPG
     params:
       tags: [photo, pond, water lily, aquatic, peaceful, nature]
       alt: Bright yellow water lilies floating on a calm pond with scattered green lily pads and reflective water.
@@ -323,17 +323,17 @@ resources:
       tags: [photo, flower, white, bloom, simplicity, beauty]
       alt: A single white flower with a soft-focus green background, highlighting its delicate beauty.
 
-  - src: White-Flower-in-the-Green.JPG
+  - src: White Flower in the Green.JPG
     params:
       tags: [photo, white flower, greenery, contrast, nature, bloom]
       alt: A solitary white flower standing out against a dense, verdant green backdrop.
 
-  - src: White-Flower-Leaves.JPG
+  - src: White Flower Leaves.JPG
     params:
       tags: [photo, white flowers, green leaves, plant, growth, nature]
       alt: White flowers amid a cluster of green leaves, showcasing the details of the plant's structure.
 
-  - src: Yellow-Flowers-shining.JPG
+  - src: Yellow Flowers shining.JPG
     params:
       tags: [photo, yellow flowers, sunlight, cheerful, blooming, garden]
       alt: Bright yellow daisy-like flowers with dark centers, bathed in sunlight, with a backdrop of dark green foliage.
