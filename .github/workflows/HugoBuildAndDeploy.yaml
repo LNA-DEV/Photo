@@ -93,14 +93,6 @@ jobs:
           fileName: "custom-config"
           encodedString: ${{ secrets.KUBECTL_CONFIG }}
 
-      # Setup kubeconfig
-      - name: base64-to-file
-        id: write_file
-        uses: timheuer/base64-to-file@v1.1
-        with:
-          fileName: "custom-config"
-          encodedString: ${{ secrets.KUBECTL_CONFIG }}
-
       # Install chart
       - name: Install Helm chart
         run: |
