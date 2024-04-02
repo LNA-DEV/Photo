@@ -21,11 +21,11 @@ resources:
   - src: Closed Rose.JPG
     params:
       tags: [photo, photography, rose, flower, bud, pink, nature, garden, bloom, delicate, floral]
-      alt: Close-up of a pink rose bud about to bloom, with soft green leaves in the background.
+      alt: Closeup of a pink rose bud about to bloom, with soft green leaves in the background.
 
   - src: Dandelion.JPG
     params:
-      tags: [photo, photography, dandelion, seed head, nature, macro, close-up, fluffy, wildflower, meadow]
+      tags: [photo, photography, dandelion, seed head, nature, macro, closeup, fluffy, wildflower, meadow]
       alt: A single dandelion seed head in sharp focus with a blurred meadow and trees in the background.
 
   - src: DynamicFlowers.JPG
@@ -50,18 +50,18 @@ resources:
 
   - src: Insects in love.JPG
     params:
-      tags: [photo, photography, insects, nature, flowers, close-up, wildlife, mating, bugs, summer, white flowers]
+      tags: [photo, photography, insects, nature, flowers, closeup, wildlife, mating, bugs, summer, white flowers]
       alt: Two red insects mating on a cluster of small white flowers, with a green blurry background.
 
   - src: InsideAYellowTulip.jpg
     params:
-      tags: [photo, photography, yellow, tulip, close-up, macro, flower, petals, nature, spring, vibrant]
-      alt: Close-up view inside a bright yellow tulip, highlighting the flower's inner details and textures.
+      tags: [photo, photography, yellow, tulip, closeup, macro, flower, petals, nature, spring, vibrant]
+      alt: Closeup view inside a bright yellow tulip, highlighting the flower's inner details and textures.
 
   - src: InsideRedTulip.JPG
     params:
-      tags: [photo, photography, red, tulip, close-up, macro, flower, petals, nature, spring, intense]
-      alt: Close-up view inside a deep red tulip, focusing on the stamens and pollen with a vibrant red backdrop.
+      tags: [photo, photography, red, tulip, closeup, macro, flower, petals, nature, spring, intense]
+      alt: Closeup view inside a deep red tulip, focusing on the stamens and pollen with a vibrant red backdrop.
 
   - src: In the tree tops.JPG
     params:
@@ -80,27 +80,27 @@ resources:
 
   - src: InsideYellowTulip.JPG
     params:
-      tags: [photo, photography, yellow, tulip, macro, flower, close-up, bloom, vibrant, spring, nature]
+      tags: [photo, photography, yellow, tulip, macro, flower, closeup, bloom, vibrant, spring, nature]
       alt: The interior of a yellow tulip showing the stamen and pollen, with a focus on the flower's bright color and details.
 
   - src: Mushroom.JPG
     params:
-      tags: [photo, photography, mushroom, nature, fungi, forest, close-up, moss, woodlands, natural, earthy]
+      tags: [photo, photography, mushroom, nature, fungi, forest, closeup, moss, woodlands, natural, earthy]
       alt: A lone mushroom rising from a bed of moss in the forest, with the focus on its cap and stem.
 
   - src: P1001921.JPG
     params:
-      tags: [photo, photography, flower, rose, garden, nature, petals, close-up]
-      alt: A close-up photo of a fully bloomed, pale yellow rose with delicate petals, surrounded by green leaves.
+      tags: [photo, photography, flower, rose, garden, nature, petals, closeup]
+      alt: A closeup photo of a fully bloomed, pale yellow rose with delicate petals, surrounded by green leaves.
 
   - src: P1001932.JPG
     params:
-      tags: [photo, photography, flower, rose, pink, petals, close-up, nature]
-      alt: Close-up photograph of a pink rose with soft petals and dew drops on a blurred background.
+      tags: [photo, photography, flower, rose, pink, petals, closeup, nature]
+      alt: Closeup photograph of a pink rose with soft petals and dew drops on a blurred background.
 
   - src: P1002480.JPG
     params:
-      tags: [photo, photography, flowers, bloom, nature, spring, close-up, vibrant]
+      tags: [photo, photography, flowers, bloom, nature, spring, closeup, vibrant]
       alt: A cluster of delicate pink blossoms against a blurred background in a springtime setting.
 
   - src: P1002481.JPG
@@ -115,23 +115,23 @@ resources:
 
   - src: P1002519.JPG
     params:
-      tags: [photo, photography, flowers, daisy, red, white, close-up, nature]
+      tags: [photo, photography, flowers, daisy, red, white, closeup, nature, naturephotography, flowerphotography, garden, gardenphotography, outdoor]
       alt: Two daisies in contrast, one red and one white, with detailed petals and yellow centers.
 
   - src: P1002526.JPG
     params:
-      tags: [photo, photography, flower, nature, mountain flora, close-up]
-      alt: Close-up photo of delicate white mountain flowers with a rocky terrain in the background.
+      tags: [photo, photography, flower, nature, mountainflora, closeup]
+      alt: Closeup photo of delicate white mountain flowers with a rocky terrain in the background.
 
   - src: P1002595.JPG
     params:
-      tags: [photo, photography, flower, daisy, nature, wildflowers, close-up]
+      tags: [photo, photography, flower, daisy, nature, wildflowers, closeup]
       alt: A solitary white daisy with a bright yellow center standing against a rocky backdrop.
 
   - src: P1002601.JPG
     params:
-      tags: [photo, photography, flower, dandelion, seeds, nature, close-up]
-      alt: A detailed close-up of a dandelion's seed head, with its intricate patterns of seeds ready to disperse.
+      tags: [photo, photography, flower, dandelion, seeds, nature, closeup]
+      alt: A detailed closeup of a dandelion's seed head, with its intricate patterns of seeds ready to disperse.
 
   - src: P1002619.JPG
     params:
@@ -165,13 +165,13 @@ resources:
 
   - src: P1013207.JPG
     params:
-      tags: [photo, photography, flowers, geranium, pink, red, close-up, vibrant]
-      alt: Close-up of pink and red geranium flowers with a patterned color blend, showcasing the flowers' detailed structure.
+      tags: [photo, photography, flowers, geranium, pink, red, closeup, vibrant]
+      alt: Closeup of pink and red geranium flowers with a patterned color blend, showcasing the flowers' detailed structure.
 
   - src: P1013211.JPG
     params:
       tags: [photo, photography, flower, rose, red, garden, nature, vibrant]
-      alt: A close-up of a deep red rose with velvety petals, set against a backdrop of garden greenery.
+      alt: A closeup of a deep red rose with velvety petals, set against a backdrop of garden greenery.
 
   - src: P1013218.JPG
     params:
@@ -190,8 +190,8 @@ resources:
 
   - src: P1013367.JPG
     params:
-      tags: [photo, photography, leaf, autumn, decay, nature, close-up]
-      alt: A close-up of a yellowing leaf with signs of decay, contrasting with dark green leaves in the background.
+      tags: [photo, photography, leaf, autumn, decay, nature, closeup]
+      alt: A closeup of a yellowing leaf with signs of decay, contrasting with dark green leaves in the background.
 
   - src: P1013388.JPG
     params:
@@ -200,7 +200,7 @@ resources:
 
   - src: P1013400.JPG
     params:
-      tags: [photo, photography, plants, night, nature, close-up, ground]
+      tags: [photo, photography, plants, night, nature, closeup, ground]
       alt: Nighttime photo of small plants and sprouts emerging from the forest floor, highlighted by a beam of light.
 
   - src: P1013448.JPG
@@ -231,7 +231,7 @@ resources:
   - src: P1013647.JPG
     params:
       tags: [photo, photography, flower, calendula, orange, nature, withered]
-      alt: A close-up of withered orange calendula flowers among fresh and vibrant ones, depicting the cycle of life in nature.
+      alt: A closeup of withered orange calendula flowers among fresh and vibrant ones, depicting the cycle of life in nature.
 
   - src: P1013650.JPG
     params:
@@ -261,7 +261,7 @@ resources:
   - src: PinkRoses.JPG
     params:
       tags: [photo, photography, flower, rose, pink, garden, bloom]
-      alt: A close-up of vivid pink roses in full bloom, highlighted by the natural daylight in a garden.
+      alt: A closeup of vivid pink roses in full bloom, highlighted by the natural daylight in a garden.
 
   - src: PinkRosesInBavaria.JPG
     params:
@@ -280,7 +280,7 @@ resources:
 
   - src: Snail on a leaf.JPG
     params:
-      tags: [photo, photography, snail, leaf, nature, wildlife, close-up]
+      tags: [photo, photography, snail, leaf, nature, wildlife, closeup]
       alt: A snail carefully perched on a colorful leaf, with a blurred background emphasizing the creature and its perch.
 
   - src: Sunflower.JPG
@@ -291,11 +291,11 @@ resources:
   - src: The high grass.JPG
     params:
       tags: [photo, nature, wildflowers, meadow, summer, bokeh]
-      alt: A close-up of purple wildflowers and tall grasses in a sunlit meadow, with a soft-focus background.
+      alt: A closeup of purple wildflowers and tall grasses in a sunlit meadow, with a soft-focus background.
 
   - src: Tulips.JPG
     params:
-      tags: [photo, flowers, tulips, spring, vibrant, close-up]
+      tags: [photo, flowers, tulips, spring, vibrant, closeup]
       alt: A vibrant yellow tulip with fringed edges in sharp focus, surrounded by soft-focus red tulips and a blurred white background.
 
   - src: Wannabe wasps.JPG
@@ -340,6 +340,6 @@ resources:
 
   - src: YellowTulip.JPG
     params:
-      tags: [photo, tulip, yellow, flower, spring, bright, close-up]
+      tags: [photo, tulip, yellow, flower, spring, bright, closeup]
       alt: A vivid yellow tulip with fringed petals, a hint of red on the lower petals, and a contrasting dark center.
 ---
