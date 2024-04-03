@@ -25,7 +25,7 @@ resources:
 
   - src: Dandelion.JPG
     params:
-      tags: [photo, photography, dandelion, seed head, nature, macro, closeup, fluffy, wildflower, meadow]
+      tags: [photo, photography, dandelion, seedHead, nature, macro, closeup, fluffy, wildflower, meadow]
       alt: A single dandelion seed head in sharp focus with a blurred meadow and trees in the background.
 
   - src: DynamicFlowers.JPG

@@ -14,7 +14,7 @@ resources:
 
   - src: Alpaca Portrait.JPG
     params:
-      tags: [photo, alpaca, portrait, close-up, animal, face, wildlife, outdoor]
+      tags: [photo, alpaca, portrait, closeup, animal, face, wildlife, outdoor]
       alt: Close-up portrait of an alpaca with a natural backdrop.
 
   - src: BabyLizard.JPG
@@ -204,12 +204,12 @@ resources:
 
   - src: P1002501.JPG
     params:
-      tags: [photo, photography, animal, alpaca, close-up, fur, farm]
+      tags: [photo, photography, animal, alpaca, closeup, fur, farm]
       alt: Close-up of an alpaca's face showing detailed fur texture on a farm setting.
 
   - src: P1002502.JPG
     params:
-      tags: [photo, photography, animal, alpaca, full-body, farm, grass]
+      tags: [photo, photography, animal, alpaca, fullbody, farm, grass]
       alt: Full body image of a white alpaca standing on a grassy field with shadows of trees.
 
   - src: P1002569.JPG
@@ -244,7 +244,7 @@ resources:
 
   - src: P1002501.JPG
     params:
-      tags: [photo, photography, animal, alpaca, close-up, farm, nature]
+      tags: [photo, photography, animal, alpaca, closeup, farm, nature]
       alt: Close-up of an alpaca's face on a sunny day at the farm, with soft white fur and a serene expression.
 
   - src: P1002502.JPG
