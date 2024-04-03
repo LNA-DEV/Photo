@@ -440,7 +440,7 @@ resources:
 
   - src: Water.JPG
     params:
-      tags: [photo, photography, water, texture, close-up, nature, tranquil, blue]
+      tags: [photo, photography, water, texture, closeup, nature, tranquil, blue]
       alt: Close-up of water showing detailed textures and the tranquil essence of a calm surface.
 
   - src: Water till the horizon.JPG
