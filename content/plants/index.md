@@ -55,12 +55,12 @@ resources:
 
   - src: InsideAYellowTulip.jpg
     params:
-      tags: [photo, photography, yellow, tulip, closeup, macro, flower, petals, nature, spring, vibrant]
+      tags: [photo, photography, yellow, tulip, closeup, macro, flower, petals, nature, spring, vibrant, flowerphotography]
       alt: Closeup view inside a bright yellow tulip, highlighting the flower's inner details and textures.
 
   - src: InsideRedTulip.JPG
     params:
-      tags: [photo, photography, red, tulip, closeup, macro, flower, petals, nature, spring, intense]
+      tags: [photo, photography, red, tulip, closeup, macro, flower, petals, nature, spring, intense, flowerphotography]
       alt: Closeup view inside a deep red tulip, focusing on the stamens and pollen with a vibrant red backdrop.
 
   - src: In the tree tops.JPG
