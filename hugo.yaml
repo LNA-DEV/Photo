@@ -12,6 +12,7 @@ theme: github.com/LNA-DEV/hugo-theme-gallery
 timeout: 600s
 params:
   title: LNA-DEV Gallery
+  # shortTitle: LNA Photo
   description: Photography of Lukas Nagel / LNA-DEV
   defaultTheme: dark
   author:
