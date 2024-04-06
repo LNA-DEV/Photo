@@ -431,4 +431,14 @@ resources:
     params:
       tags: [photo, photography, duck, lake, mountains, trees]
       alt: A small duck siting at the side of a lake.
+
+  - src: P1001866.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, goat, forest, mountains, alps]
+      alt: A goat standing / posing on a bit of gras in the mountains.
+
+  - src: P1001868.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, goat,  mountains, alps, closeup]      
+      alt: Closeup of a goat looking to the right. The top of a small cottage is in the background.
 ---
