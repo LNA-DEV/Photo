@@ -219,7 +219,7 @@ resources:
 
   - src: P1002573.JPG
     params:
-      tags: [photo, photography, animal, duck, shore, pebbles, walk]
+      tags: [photo, photography, animal, duck, shore, pebbles, walk, bird, birdphotography, animalphotography, wildlife, wildlifephotography]
       alt: A mallard duck strolling along the pebbled shore of a lake.
 
   - src: P1002576.JPG
@@ -256,11 +256,6 @@ resources:
     params:
       tags: [photo, photography, bird, swan, lake, nature, reflection]
       alt: A graceful swan floating on the calm waters of a lake, with a clear reflection beneath.
-
-  - src: P1002573.JPG
-    params:
-      tags: [photo, photography, bird, duck, mallard, shore, pebbles]
-      alt: A male mallard duck with iridescent green head standing on a pebbly lakeshore.
 
   - src: P1002576.JPG
     params:
