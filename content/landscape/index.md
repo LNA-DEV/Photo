@@ -512,4 +512,39 @@ resources:
     params:
       tags: [photo, photography, nature, mountains, alps, lensflare]
       alt: Image of the Bavarian mountains with a tree in the front and the mountains in the back.
+
+  - src: DJI_0915.jpg
+    params:
+      tags: [photo, photography, nature, mountains, alps, clouds, cloudphotography, mountainphotography, overtheclouds, drone, dronephotography]
+      alt: This image was taken over the clouds. You see them till the horizon. Mountain tops look like islands. A peek is in the foreground.
+
+  - src: DJI_0916.jpg
+    params:
+      tags: [photo, photography, nature, mountains, alps, clouds, cloudphotography, mountainphotography, overtheclouds, drone, dronephotography]
+      alt: This image was taken over the clouds. You see them till the horizon. Mountain tops look like islands.
+
+  - src: DJI_0918.jpg
+    params:
+      tags: [photo, photography, nature, mountains, alps, clouds, cloudphotography, mountainphotography, overtheclouds, drone, dronephotography]
+      alt: This image was taken over the clouds. You see them till the horizon. On this image the mountains form a big island on the left with the clouds on the right.
+
+  - src: DJI_0876.jpg
+    params:
+      tags: [photo, photography, nature, forest, forestphotography, tree, treephotography, drone, dronephotography, green]
+      alt: Drone image of trees shot directly from above.
+
+  - src: DJI_0903.jpg
+    params:
+      tags: [photo, photography, nature, forest, forestphotography, tree, treephotography, drone, dronephotography, green, colorful]
+      alt: Drone image of trees shot directly from above. There are green trees but also many autumn colors.
+
+  - src: DJI_0906.jpg
+    params:
+      tags: [photo, photography, nature, forest, forestphotography, tree, treephotography, drone, dronephotography, green, colorful, cloud, cloudphotography, overtheclouds]
+      alt: Drone image of trees shot directly from above. There are green trees but also many autumn colors. On the top / left there is a white cloud where we are looking down to.
+
+  - src: DJI_0901.jpg
+    params:
+      tags: [photo, photography, nature, mountains, alps, clouds, cloudphotography, mountainphotography, overtheclouds, drone, dronephotography]
+      alt: This image was taken over the clouds. You see them till the horizon. Mountain tops look like islands.
 ---

@@ -222,11 +222,6 @@ resources:
       tags: [photo, photography, animal, duck, shore, pebbles, walk, bird, birdphotography, animalphotography, wildlife, wildlifephotography]
       alt: A mallard duck strolling along the pebbled shore of a lake.
 
-  - src: P1002576.JPG
-    params:
-      tags: [photo, photography, animal, geese, family, chicks, nature]
-      alt: A family of geese with fluffy chicks walking through a natural lakeside habitat.
-
   - src: P1002593.JPG
     params:
       tags: [photo, photography, animal, geese, family, chicks, nature]
@@ -259,7 +254,7 @@ resources:
 
   - src: P1002576.JPG
     params:
-      tags: [photo, photography, birds, geese, family, nature, wildlife]
+      tags: [photo, photography, birds, geese, goslings, family, nature, wildlife, birdphotography, animal, animalphotography, babyanimal]
       alt: A family of geese with fluffy goslings walking through a grassy area near water.
 
   - src: P1002593.JPG
@@ -436,4 +431,49 @@ resources:
     params:
       tags: [photo, photography, animal, animalphotography, goat,  mountains, alps, closeup]      
       alt: Closeup of a goat looking to the right. The top of a small cottage is in the background.
+
+  - src: P1001867.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, goat,  mountains, alps, closeup, funny]      
+      alt: Closeup of a goat looking to the right. It has its mouth open in a funny way.
+
+  - src: P1001775.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, cow, cute, closeup]      
+      alt: Closeup of a cow looking directly into the camera. It is a  juvenile cow.
+
+  - src: DJI_0875.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, cow, drone, dronephotography]      
+      alt: A cow, standing on green grass, looking into the sky, directly into the camera.
+
+  - src: P1002023.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, cow, closeup, cattle, horn]      
+      alt: A cow looking in the near of the camera. The cow is dark brown and has horns.
+
+  - src: P1002032.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, cow,  cattle, babyanimal, cute, little, calf]      
+      alt: A little calf looking in the direction of the camera. It is brown, white and really cute.
+
+  - src: P1002086.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, cute, little, wildlife, wildlifephotography]      
+      alt: A little mouse / wild hamster is looking out of a hole in the field int the camera.
+
+  - src: P1002051.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, insect, caterpillar]      
+      alt: Brown caterpillar on gravel. Looks a bit fluffy but at the same time dangerous.
+
+  - src: P1001861.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, insect, caterpillar]      
+      alt: Black / yellow caterpillar on gravel. Looks a bit fluffy but at the same time it has dangerous looking spikes.
+
+  - src: P1013282.jpg
+    params:
+      tags: [photo, photography, animal, animalphotography, wildlife, wildlifephotography, bird, birdphotography, river, water]      
+      alt: A black bird siting on some stones in the middle of a river. It has its wings wide open.
 ---
