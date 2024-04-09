@@ -342,4 +342,34 @@ resources:
     params:
       tags: [photo, tulip, yellow, flower, spring, bright, closeup]
       alt: A vivid yellow tulip with fringed petals, a hint of red on the lower petals, and a contrasting dark center.
+
+  - src: P1002063.jpg
+    params:
+      tags: [photo, photography, flower, bright, closeup, rosa, white, flowerphotography]
+      alt: A rosa and white flower captured facing to the camera.
+
+  - src: P1001821.jpg
+    params:
+      tags: [photo, photography, flower, bright, closeup, red, white, purple, flowerphotography]
+      alt: A lot of rosa, white and purple flowers captured facing to the camera.
+
+  - src: P1001613.jpg
+    params:
+      tags: [photo, photography, flower, bright, closeup,  flowerphotography, rose, rain, water, sun]
+      alt: A rose captured after the rain in the sun.
+
+  - src: P1001595.jpg
+    params:
+      tags: [photo, photography, flower, bright, closeup,  flowerphotography, insect, animal]
+      alt: A little insect siting on a yellow flower.
+
+  - src: P1001593.jpg
+    params:
+      tags: [photo, photography, flower, bright, closeup,  flowerphotography, insect, animal]
+      alt: A little insect siting on a yellow flower.
+
+  - src: P1001669.jpg
+    params:
+      tags: [photo, photography, corn, closeup, food, corncob]
+      alt: A closeup of a corncob with green plants in the blurred background.
 ---
