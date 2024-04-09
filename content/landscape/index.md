@@ -547,4 +547,33 @@ resources:
     params:
       tags: [photo, photography, nature, mountains, alps, clouds, cloudphotography, mountainphotography, overtheclouds, drone, dronephotography]
       alt: This image was taken over the clouds. You see them till the horizon. Mountain tops look like islands.
----
+
+  - src: DJI_0862.jpg
+    params:
+      tags: [photo, photography, nature, landscape, landscapephotography, croatia, hills, mountains, forest, drone, dronephotography]
+      alt: Image of little mountains / hills and a railroad track snailing along them.
+
+  - src: DJI_0863.jpg
+    params:
+      tags: [photo, photography, nature, landscape, landscapephotography, croatia, hills, mountains, forest, drone, dronephotography]
+      alt: Image of little mountains / hills and a railroad track snailing along them. On this image the focus lays more on the track.
+
+  - src: DJI_0865.jpg
+    params:
+      tags: [photo, photography, nature, landscape, landscapephotography, croatia, hills, mountains, forest, drone, dronephotography]
+      alt: Image of little mountains / hills and a railroad track snailing along them. This time the image points in another direction.
+
+  - src: DJI_0909.jpg
+    params:
+      tags: [photo, photography, nature, landscape, landscapephotography, mountains, forest, drone, dronephotography, alps, sun, lensflare]
+      alt: Drone photo taken over the mountains pointing at the sun which is setting among them.
+
+  - src: P1001117.jpg
+    params:
+      tags: [photo, photography, nature, landscape, landscapephotography,dronephotography, sun, lensflare, croatia, sea, sunset, island]
+      alt: Photo of the sunset in Croatia. The sun is setting behind a island.
+
+  - src: P1001361.jpg
+    params:
+      tags: [photo, photography, nature, landscape, landscapephotography,dronephotography, sun, lensflare, croatia, sea, sunset, island]
+      alt: Photo of the sunset in Croatia. The sun is setting near a island.
