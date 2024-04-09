@@ -577,3 +577,5 @@ resources:
     params:
       tags: [photo, photography, nature, landscape, landscapephotography,dronephotography, sun, lensflare, croatia, sea, sunset, island]
       alt: Photo of the sunset in Croatia. The sun is setting near a island.
+
+---
