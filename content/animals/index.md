@@ -202,16 +202,6 @@ resources:
       tags: [photo, photography, wildlife, alpaca, standing, curious, gaze, pasture]
       alt: An inquisitive alpaca standing in a sunny pasture, staring at the camera with a soft and woolly coat.
 
-  - src: P1002501.JPG
-    params:
-      tags: [photo, photography, animal, alpaca, closeup, fur, farm]
-      alt: Close-up of an alpaca's face showing detailed fur texture on a farm setting.
-
-  - src: P1002502.JPG
-    params:
-      tags: [photo, photography, animal, alpaca, fullbody, farm, grass]
-      alt: Full body image of a white alpaca standing on a grassy field with shadows of trees.
-
   - src: P1002569.JPG
     params:
       tags: [photo, photography, animal, swan, water, reflection, nature]
@@ -225,7 +215,7 @@ resources:
   - src: P1002593.JPG
     params:
       tags: [photo, photography, animal, geese, family, chicks, nature]
-      alt: A family of geese with fluffy chicks walking through a natural lakeside habitat.
+      alt: A family of geese with fluffy goslings walking through a grassy area near water.
 
   - src: P1002650.JPG
     params:
@@ -244,28 +234,13 @@ resources:
 
   - src: P1002502.JPG
     params:
-      tags: [photo, photography, animal, alpaca, full body, pasture, outdoors]
+      tags: [photo, photography, animal, alpaca, fullbody, pasture, outdoors]
       alt: Full body shot of a white alpaca standing in a green pasture, with shadows of trees dappling the ground.
-
-  - src: P1002569.JPG
-    params:
-      tags: [photo, photography, bird, swan, lake, nature, reflection]
-      alt: A graceful swan floating on the calm waters of a lake, with a clear reflection beneath.
 
   - src: P1002576.JPG
     params:
       tags: [photo, photography, birds, geese, goslings, family, nature, wildlife, birdphotography, animal, animalphotography, babyanimal]
       alt: A family of geese with fluffy goslings walking through a grassy area near water.
-
-  - src: P1002593.JPG
-    params:
-      tags: [photo, photography, cattle, cow, field, nature, grazing]
-      alt: A brown and white cow grazing in a sunlit field with tall grass and a forest in the background.
-
-  - src: P1002650.JPG
-    params:
-      tags: [photo, photography, animal, deer, field, nature, wildlife]
-      alt: A deer seen at a distance in a large field, with forested hills in the background.
 
   - src: P1013559.JPG
     params:
