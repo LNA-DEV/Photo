@@ -234,7 +234,7 @@ resources:
 
   - src: P1002502.JPG
     params:
-      tags: [photo, photography, animal, alpaca, fullbody, pasture, outdoors]
+      tags: [photo, photography, animal, alpaca, fullbody, pasture, outdoors, animalphotography, cute]
       alt: Full body shot of a white alpaca standing in a green pasture, with shadows of trees dappling the ground.
 
   - src: P1002576.JPG
