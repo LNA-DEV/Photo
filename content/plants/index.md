@@ -398,4 +398,14 @@ resources:
     params:
       tags: [photo, photography, plants, nature, naturephotography, flower, flowerphotography]
       alt: White / yellow flowers with a green background.
+
+  - src: P1013160.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, tree, treephotography, sun, lensflare]
+      alt: Photo of the sun shining threw the trees in the forest.
+
+  - src: P1013181.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, tree, treephotography, sun, lensflare, green, warm]
+      alt: Photo of the sun shining threw the trees in the forest.
 ---
