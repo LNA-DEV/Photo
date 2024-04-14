@@ -372,4 +372,40 @@ resources:
     params:
       tags: [photo, photography, corn, closeup, food, corncob]
       alt: A closeup of a corncob with green plants in the blurred background.
+
+  - src: P1013202.jpg
+    params:
+      tags: [photo, photography, plants, flower, flowerphotography, nature, naturephotography, purple, green]
+      alt: A closeup of a purple flower with a green background.
+      alt: A closeup of a corncob with green plants in the blurred background.
+
+  - src: P1013216.jpg
+    params:
+      tags: [photo, photography, plants, flower, flowerphotography, nature, naturephotography, red, green]
+      alt: A closeup of a red flower with a green background and another flower.
+
+  - src: P1002682.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, orange, green]
+      alt: Orange berries and a few leafs.
+
+  - src: P1013238.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, flower, flowerphotography, garden, gardenphotography]
+      alt: Flowers in a bucket hanging on a ladder which leans against a tree.
+
+  - src: P1013245.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, flower, flowerphotography]
+      alt: White / yellow flowers with a green background.
+
+  - src: P1013160.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, tree, treephotography, sun, lensflare]
+      alt: Photo of the sun shining threw the trees in the forest.
+
+  - src: P1013181.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, tree, treephotography, sun, lensflare, green, warm]
+      alt: Photo of the sun shining threw the trees in the forest.
 ---
