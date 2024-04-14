@@ -578,4 +578,44 @@ resources:
       tags: [photo, photography, nature, landscape, landscapephotography,dronephotography, sun, lensflare, croatia, sea, sunset, island]
       alt: Photo of the sunset in Croatia. The sun is setting near a island.
 
+  - src: DJI_0967.jpg
+    params:
+      tags: [photo, photography, snow, mountains, alps, bavaria, germany, mountainphotography, landscape, landscapephotography, drone, dronephotography]
+      alt: Photo of a little valley between the mountains. The image was taken in winter and everything is snow covered.
+
+  - src: P1002124.jpg
+    params:
+      tags: [photo, photography, snow, mountains, alps, bavaria, germany, mountainphotography, landscape, landscapephotography, lake, water]
+      alt: A lake with snow covered mountains in the background.
+
+  - src: P1002698.jpg
+    params:
+      tags: [photo, photography, sun, lensflare, trees, nature, naturephotography, mountains, mountainphotography]
+      alt: Photo of the sun which is shining threw a few trees with mountains in the background.
+
+  - src: P1002881.jpg
+    params:
+      tags: [photo, photography, sea, landscape, landscapephotography, cloud, cloudphotography, island, france]
+      alt: Photo of a island taken in France. The sea is rough but the weather is good.
+      alt: Photo of the sun which is shining threw a few trees with mountains in the background.
+
+  - src: P1003013.jpg
+    params:
+      tags: [photo, photography, water, river, landscape, landscapephotography, france, nature, naturephotography]
+      alt: Image of a river in france in a rocky terrain.
+
+  - src: P1003044.jpg
+    params:
+      tags: [photo, photography, water, river, landscape, landscapephotography, france, nature, naturephotography, canoe]
+      alt: Image of a river in france in a rocky terrain. In this image there are two canoes.
+
+  - src: P1003105.jpg
+    params:
+      tags: [photo, photography, water, river, landscape, landscapephotography, switzerland, nature, naturephotography, building, waterfall]
+      alt: Photo of the Rheinfall in Switzerland. An old building can be found in the background.
+
+  - src: P1013144.jpg
+    params:
+      tags: [photo, photography, water, river, landscape, landscapephotography, switzerland, nature, naturephotography, flag,  waterfall]
+      alt: Photo of the Rheinfall in Switzerland. A Swiss flag sits on the top of a rock in the water.
 ---
