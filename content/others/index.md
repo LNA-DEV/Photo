@@ -67,5 +67,15 @@ resources:
     params:
       tags: [photo, photography, stone, texture]
       alt: Gravel / little stones laying on the ground.
+      
+  - src: P1002141.jpg
+    params:
+      tags: [photo, photography, drone, dronephotography]
+      alt: Image of a drone looking to the right.
+      
+  - src: P1002142.jpg
+    params:
+      tags: [photo, photography, drone, dronephotography]
+      alt: Image of a drone looking into the camera.
 ---
 

@@ -66,4 +66,19 @@ resources:
     params:
       tags: [photo, photography, croatia, porec, city, cityphotography, sea, ships, colorful, evening, clouds]
       alt: Photo of the Croatian city Porec in the evening.
+      
+  - src: P1002893.jpg
+    params:
+      tags: [photo, photography, france, aqueduct, ancient, ruins]
+      alt: A photo of a aqueduct in France with green trees in the background.
+      
+  - src: P1002916.jpg
+    params:
+      tags: [photo, photography, france, aqueduct, ancient, ruins]
+      alt: A photo of a aqueduct in France with green trees in the background.
+      
+  - src: P1002986.jpg
+    params:
+      tags: [photo, photography, france, tower, castle, city, ancient, cityphotography, clock]
+      alt: A old tower in France with a clock at it standing in a city.
 ---

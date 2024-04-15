@@ -229,12 +229,12 @@ resources:
 
   - src: P1002501.JPG
     params:
-      tags: [photo, photography, animal, alpaca, closeup, farm, nature]
+      tags: [photo, photography, animal, alpaca, closeup, farm, nature, animalphotography, cute]
       alt: Close-up of an alpaca's face on a sunny day at the farm, with soft white fur and a serene expression.
 
   - src: P1002502.JPG
     params:
-      tags: [photo, photography, animal, alpaca, fullbody, pasture, outdoors]
+      tags: [photo, photography, animal, alpaca, fullbody, pasture, outdoors, animalphotography, cute]
       alt: Full body shot of a white alpaca standing in a green pasture, with shadows of trees dappling the ground.
 
   - src: P1002576.JPG
