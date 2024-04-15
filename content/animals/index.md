@@ -199,7 +199,7 @@ resources:
 
   - src: P1002497.JPG
     params:
-      tags: [photo, photography, wildlife, alpaca, standing, curious, gaze, pasture]
+      tags: [photo, photography, wildlife, alpaca, standing, curious, gaze, pasture, cute, animal, animalphotography]
       alt: An inquisitive alpaca standing in a sunny pasture, staring at the camera with a soft and woolly coat.
 
   - src: P1002569.JPG
