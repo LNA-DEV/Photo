@@ -155,7 +155,7 @@ resources:
 
   - src: InnValley.JPG
     params:
-      tags: [photo, photography, valley, river, mountains, austria, landscape, nature, scenic]
+      tags: [photo, photography, valley, river, mountains, austria, landscape, nature, scenic, bavaria, drone, dronephotography, nature, naturephotography, landscapephotography]
       alt: A vibrant aerial view of the Inn Valley with the river snaking through and mountains in the distance.
 
   - src: Leaf in the way.JPG
