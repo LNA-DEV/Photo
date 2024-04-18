@@ -105,8 +105,8 @@ resources:
 
   - src: ForestSwap.JPG
     params:
-      tags: [photo, photography, forest, nature, aerial view, trees, green, environment]
-      alt: Aerial view of a dense forest with a mix of green and yellow treetops.
+      tags: [photo, photography, forest, nature, trees, green, environment, drone, dronephotography, landscape, landscapephotography]
+      alt: Aerial view of a dense forest with a mix of different green treetops.
 
   - src: GlowingSky.JPG
     params:
