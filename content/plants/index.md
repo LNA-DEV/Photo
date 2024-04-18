@@ -110,7 +110,7 @@ resources:
 
   - src: P1002485.JPG
     params:
-      tags: [photo, photography, flowers, purple, nature, garden, groundcover]
+      tags: [photo, photography, flowers, purple, nature, garden, groundcover, gardenphotography, flowerphotography, naturephotography]
       alt: A bed of vibrant purple flowers with green foliage, basking in sunlight.
 
   - src: P1002519.JPG
