@@ -325,7 +325,7 @@ resources:
 
   - src: RehleitenkopfAndRiesenkopf.JPG
     params:
-      tags: [photo, photography, mountain, green, nature, valley, forest, aerial view]
+      tags: [photo, photography, mountain, green, nature, valley, forest, aerialview, landscape, landscapephotography, drone, dronephotography]
       alt: Aerial view of a lush green valley with the Rehleitenkopf and Riesenkopf mountains in the background.
 
   - src: Riesenkopf.JPG
