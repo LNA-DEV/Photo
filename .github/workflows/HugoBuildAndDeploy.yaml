@@ -97,4 +97,4 @@ jobs:
       - name: Install Helm chart
         run: |
           helm pull oci://registry-1.docker.io/lnadev/charts.personal
-          helm upgrade --install charts.personal oci://registry-1.docker.io/lnadev/charts.personal --namespace personal --kubeconfig ${{ steps.write_file.outputs.filePath }} --set photo.version=${{ github.run_number }}
+          helm upgrade --install charts.personal oci://registry-1.docker.io/lnadev/charts.personal --namespace personal --kubeconfig ${{ steps.write_file.outputs.filePath }} --set photo.version=${{ github.run_number }} --reuse-values

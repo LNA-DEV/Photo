@@ -137,11 +137,6 @@ resources:
       tags: [photo, seagull, bird, flying, sky, wings, freedom, wildlife]
       alt: A seagull with gray and white plumage soaring in the blue sky, wings spread wide.
 
-  - src: P1002294.JPG
-    params:
-      tags: [photo, bird, tree, nature, wildlife, perching, branches, blue sky]
-      alt: A small bird perched on the bare branches of a tree, with a clear blue sky in the background.
-
   - src: P1002301.JPG
     params:
       tags: [photo, mandarin duck, bird, water, colorful, wildlife, resting, nature]
