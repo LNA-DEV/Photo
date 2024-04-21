@@ -13,11 +13,6 @@ resources:
       tags: [photo, photography, mountains, alps, snow, nature, clouds, scenic, panorama]
       alt: Panoramic view of the snow-capped Alps with clouds below the mountain peaks.
 
-  - src: AlpSun.JPG
-    params:
-      tags: [photo, photography, sunset, mountains, alps, dusk, nature, clouds, sky]
-      alt: Sunset over the Alps with orange and purple hues in the sky.
-
   - src: A million paths.JPG
     params:
       tags: [photo, photography, sunrise, mountains, alps, dawn, nature, sky]
@@ -27,11 +22,6 @@ resources:
     params:
       tags: [photo, photography, bavaria, mountains, rocks, cross, nature, greenery]
       alt: Rugged Bavarian mountain landscape with a cross on top of rocky peaks.
-
-  - src: BavarianRiesenkopfAndMaiwand.JPG
-    params:
-      tags: [photo, photography, bavaria, mountains, green, nature, forest, scenic]
-      alt: Scenic view of the Bavarian Riesenkopf and Maiwand with lush green slopes.
 
   - src: Bavarian village.JPG
     params:
@@ -47,11 +37,6 @@ resources:
     params:
       tags: [photo, photography, bridge, river, mountains, nature, trees, architecture]
       alt: Wooden bridge crossing a calm river with mountains in the distance.
-
-  - src: BurningSkyline.JPG
-    params:
-      tags: [photo, photography, sunset, skyline, dusk, nature, clouds, silhouette]
-      alt: The sunset creating a fiery skyline with dark cloud silhouettes.
 
   - src: By the water.JPG
     params:
@@ -313,11 +298,6 @@ resources:
       tags: [photo, photography, mountain, snow, clouds, nature, winter, alpine]
       alt: Rugged mountain terrain covered in snow with clouds settled around the peaks.
 
-  - src: Poisonous Sky.JPG
-    params:
-      tags: [photo, photography, sunset, dusk, purple sky, city lights, night]
-      alt: City skyline under a dark, ominous purple sky at dusk, with city lights starting to illuminate.
-
   - src: Red Lens Flare.JPG
     params:
       tags: [photo, photography, sunset, field, nature, trees, lens flare, golden hour]
@@ -347,11 +327,6 @@ resources:
     params:
       tags: [photo, photography, sunset, fields, bavarian, landscape, nature, dusk]
       alt: Sunset casting long shadows over the Bavarian fields, with a dramatic sky overhead.
-
-  - src: ShiningHole.JPG
-    params:
-      tags: [photo, photography, sunset, silhouette, mountains, dark, vibrant, dusk]
-      alt: Vibrant sunset peeking through dark silhouettes of mountains and clouds.
 
   - src: Shiny Clouds.JPG
     params:
@@ -387,11 +362,6 @@ resources:
     params:
       tags: [photo, photography, sunset, sea, waves, ocean, golden hour]
       alt: Golden sunlight reflecting off the gentle waves of the sea at sunset.
-
-  - src: SunOverTheTreeInTheCornfields.JPG
-    params:
-      tags: [photo, photography, sunset, tree, cornfield, landscape, rural, twilight]
-      alt: A lone tree stands in the midst of cornfields against the backdrop of a dramatic sunset sky.
 
   - src: Sun-Waves.JPG
     params:
@@ -618,4 +588,10 @@ resources:
     params:
       tags: [photo, photography, water, river, landscape, landscapephotography, switzerland, nature, naturephotography, flag,  waterfall]
       alt: Photo of the Rheinfall in Switzerland. A Swiss flag sits on the top of a rock in the water.
+
+  - src: P1003115.JPG
+    params:
+      tags: [photo, photography, switzerland, nature, lake, river, building, old, rheinfall]
+      alt: Picture of the Rheinfall in Switzerland. Old building in the background.
+
 ---

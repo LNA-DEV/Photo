@@ -52,11 +52,6 @@ resources:
       tags: [photo, photography, france, statue, mask]
       alt: A statue on whichs head someone put a mask.
 
-  - src: P1003115.JPG
-    params:
-      tags: [photo, photography, switzerland, nature, lake, river, building, old, rheinfall]
-      alt: Picture of the Rheinfall in Switzerland. Old building in the background.
-
   - src: P1013156.JPG
     params:
       tags: [photo, photography, switzerland, flag, waterWheel]

@@ -198,11 +198,6 @@ resources:
       tags: [photo, photography, leaf, autumn, red, green, nature, decay]
       alt: An autumn leaf transitioning from green to red, with holes suggesting the end of its life cycle, set against a dark backdrop.
 
-  - src: P1013400.JPG
-    params:
-      tags: [photo, photography, plants, night, nature, closeup, ground]
-      alt: Nighttime photo of small plants and sprouts emerging from the forest floor, highlighted by a beam of light.
-
   - src: P1013448.JPG
     params:
       tags: [photo, photography, flower, rose, pink, garden, nature, bloom]
