@@ -45,7 +45,7 @@ resources:
 
   - src: ChiemseeFromTheBavarianMountains.JPG
     params:
-      tags: [photo, photography, chiemsee, bavarian, mountains, lake, nature, scenic, aerial view]
+      tags: [photo, photography, chiemsee, bavarian, mountains, lake, nature, scenic, aerialview]
       alt: Aerial view of Lake Chiemsee from the Bavarian mountains, with clear skies.
 
   - src: Cloud bed.JPG
@@ -390,7 +390,7 @@ resources:
 
   - src: View of bavaria.JPG
     params:
-      tags: [photo, photography, twilight, village, mountains, aerial view, landscape, nature]
+      tags: [photo, photography, twilight, village, mountains, aerialview, landscape, nature]
       alt: Aerial view of a Bavarian village during twilight with mountains in the backdrop and a dimly lit sky.
 
   - src: ViewOverRiesenkopf.JPG
@@ -400,7 +400,7 @@ resources:
 
   - src: ViewToAustria.JPG
     params:
-      tags: [photo, photography, twilight, mountains, landscape, aerial view, nature, dusk]
+      tags: [photo, photography, twilight, mountains, landscape, aerialview, nature, dusk]
       alt: Aerial view of the landscape at dusk with mountains stretching into the distance towards Austria.
 
   - src: Village in mountain sun.JPG
