@@ -9,32 +9,32 @@ menu: main
 resources:
   - src: Alpaca behind tree.JPG
     params:
-      tags: [photo, alpaca, wildlife, nature, tree, animal, hidden, outdoor]
+      tags: [photo, photography, alpaca, wildlife, nature, tree, animal, hidden, outdoor, animalphotography, cute]
       alt: An alpaca peeking out from behind a tree in a natural setting.
 
   - src: Alpaca Portrait.JPG
     params:
-      tags: [photo, alpaca, portrait, closeup, animal, face, wildlife, outdoor]
+      tags: [photo, alpaca, portrait, closeup, animal, face, wildlife, outdoor, photography, animalphotography, cute]
       alt: Close-up portrait of an alpaca with a natural backdrop.
 
   - src: BabyLizard.JPG
     params:
-      tags: [photo, lizard, reptile, baby, small, wildlife, nature, animal]
+      tags: [photo, lizard, reptile, baby, small, wildlife, nature, animal, photography, animalphotography]
       alt: A tiny baby lizard perched delicately in a natural environment.
 
   - src: BavarianSheep.JPG
     params:
-      tags: [photo, sheep, bavarian, animal, grassland, rural, farm, nature]
+      tags: [photo, sheep, bavarian, animal, grassland, rural, farm, nature, cute, photography, animalphotography]
       alt: A Bavarian sheep grazing in a lush green pasture.
 
   - src: Bee.JPG
     params:
-      tags: [photo, bee, insect, wings, pollinator, nature, wildlife, macro]
+      tags: [photo, bee, insect, wings, pollinator, nature, wildlife, macro, photography, animalphotography]
       alt: A bee siting on a yellow tulip.
 
   - src: Bee from the front.JPG
     params:
-      tags: [photo, bee, front view, insect, face, pollinator, wildlife, macro]
+      tags: [photo, bee, front view, insect, face, pollinator, wildlife, macro, photography]
       alt: Frontal view of a bee showcasing its face and antennae with a clear focus.
 
   - src: Bee on white flowers.JPG
@@ -65,7 +65,7 @@ resources:
   - src: CatLookingToTheSide.JPG
     params:
       tags: [photo, cat, pet, sphynx, indoor, curious, feline, domestic]
-      alt: A Sphynx cat with a wrinkled skin looking to the side, sitting indoors with a pensive expression.
+      alt: A Sphynx cat with a wrinkled skin looking to the side, siting indoors with a pensive expression.
 
   - src: Dolphins next to boat.JPG
     params:
@@ -99,7 +99,7 @@ resources:
 
   - src: GreatSpottedWoodpecker.JPG
     params:
-      tags: [photo, great spotted woodpecker, bird, tree, nature, wildlife, camouflaged, black and white]
+      tags: [photo, woodpecker, bird, tree, nature, wildlife, camouflaged, blackAndWhite]
       alt: A Great Spotted Woodpecker clinging to a tree trunk, its black and white feathers blending into the bark.
 
   - src: GreenDragonflyClosed.JPG
