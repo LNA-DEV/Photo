@@ -403,4 +403,29 @@ resources:
     params:
       tags: [photo, photography, plants, nature, naturephotography, tree, treephotography, sun, lensflare, green, warm]
       alt: Photo of the sun shining threw the trees in the forest.
+
+  - src: P1015867.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, bee, flower, flowerphotography, purple]
+      alt: A bee siting on a purple flower with multiple of this flowers in the background.
+
+  - src: P1015855.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, flower, flowerphotography, purple]
+      alt: A purple flower in the foreground and a green garden in the background.
+
+  - src: P1015481.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, flower, flowerphotography, yellow, sun, mountains, bavaria]
+      alt: Me holding a yellow flower against the sun with Bavarian mountains in the background.
+
+  - src: P1014674.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, flower, flowerphotography, pink, tulip]
+      alt: Photo of a pink tulip with a green background.
+
+  - src: P1014528.jpg
+    params:
+      tags: [photo, photography, plants, nature, naturephotography, flower, flowerphotography, pink, tree, treephotography]
+      alt: Photo of a pink flower / tree.
 ---
