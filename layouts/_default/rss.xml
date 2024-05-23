@@ -42,7 +42,8 @@
       <guid>{{ .Permalink }}</guid>
       <media:content url="{{ .Permalink }}" type="image/jpeg"/>
       <description>
-        <img src="{{ .Permalink }}" alt="{{ .Params.Alt }}"/>          
+        {{ $full := .Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
+        <img src="{{ $full.Permalink }}" alt="{{ .Params.Alt }}"/>          
         {{- if ne .Title .Name -}}
         <p> {{ .Title }} </p>
         {{ end }}
