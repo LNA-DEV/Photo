@@ -40,9 +40,9 @@
       <pubDate>{{ .Exif.Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       {{- with $authorEmail }}<author>{{ . }}{{ with $authorName }} ({{ . }}){{ end }}</author>{{ end }}
       <guid>{{ .Permalink }}</guid>
-      <media:content url="{{ .Permalink }}" type="image/jpeg"/>
+      {{ $full := .Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
+      <media:content url="{{ $full.Permalink }}" type="image/jpeg"/>
       <description>
-        {{ $full := .Filter (slice images.AutoOrient (images.Process "fit 1600x1600")) }}
         <img src="{{ $full.Permalink }}" alt="{{ .Params.Alt }}"/>          
         {{- if ne .Title .Name -}}
         <p> {{ .Title }} </p>
